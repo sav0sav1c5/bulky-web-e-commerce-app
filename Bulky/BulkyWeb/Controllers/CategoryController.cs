@@ -1,5 +1,5 @@
-﻿using BulkyWeb.Data;
-using BulkyWeb.Models;
+﻿using Bulky.DataAccess.Data;
+using Bulky.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BulkyWeb.Controllers
@@ -32,7 +32,7 @@ namespace BulkyWeb.Controllers
             
             if (exsistingCategoty != null)
             {
-                ModelState.AddModelError("", "Category with same 'Category Name' and 'DisplayOrder' alrady exists.")
+                ModelState.AddModelError("", "Category with same 'Category Name' and 'DisplayOrder' alrady exists.");
             }
 
             if (obj.Name == obj.DisplayOrder.ToString())

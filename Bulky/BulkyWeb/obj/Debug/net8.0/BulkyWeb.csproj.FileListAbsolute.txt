@@ -143,3 +143,9 @@ C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\obj\Debu
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.pdb
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.genruntimeconfig.cache
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\obj\Debug\net8.0\ref\BulkyWeb.dll
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.dll
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.pdb
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb
