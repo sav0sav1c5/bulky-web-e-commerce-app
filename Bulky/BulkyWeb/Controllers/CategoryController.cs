@@ -28,11 +28,11 @@ namespace BulkyWeb.Controllers
         public IActionResult Create(Category obj)
         {
             // Checking if there is already a category with same 'Category Name' and 'Display Order'
-            var exsistingCategoty = _db.Categories.FirstOrDefault(u => u.Name == obj.Name && u.DisplayOrder == obj.DisplayOrder );
+            var exsistingCategory = _db.Categories.FirstOrDefault(u => u.Name == obj.Name && u.DisplayOrder == obj.DisplayOrder );
             
-            if (exsistingCategoty != null)
+            if (exsistingCategory != null)
             {
-                ModelState.AddModelError("", "Category with same 'Category Name' and 'DisplayOrder' alrady exists.")
+                ModelState.AddModelError("", "Category with same 'Category Name' and 'DisplayOrder' alrady exists.");
             }
 
             if (obj.Name == obj.DisplayOrder.ToString())
