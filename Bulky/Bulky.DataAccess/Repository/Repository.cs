@@ -18,7 +18,7 @@ namespace Bulky.DataAccess.Repository
         {
             _db = db;
             this.dbSet = _db.Set<T>();
-            // _db.Categories == dbSet
+            _db.Products.Include(u => u.Category).Include(u => u.CategoryId);//.Include(u => u.OtherEntity).... Can have multiple include properties
         }
         public void Add(T entity)
         {  
@@ -26,18 +26,43 @@ namespace Bulky.DataAccess.Repository
             dbSet.Add(entity);
         }
 
-        public T Get(Expression<Func<T, bool>> filter)
+        public T Get(Expression<Func<T, bool>> filter, string? includeProperties = null)
         {
             // We will assign complete dbSet here
             IQueryable<T> query = dbSet;
             // Applaying 'Where' condition to filter dbSet
             query = query.Where(filter);
+
+            //If we need to include other properties (string contains them)
+            if (!string.IsNullOrEmpty(includeProperties))
+            {
+                // Separating them from comma
+                foreach (var includeProp in includeProperties
+                    .Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(includeProp);
+                }
+            }
+
             return query.FirstOrDefault();
         }
 
-        public IEnumerable<T> GetAll()
+        // Lets say user need to include Category and CoverType 
+        public IEnumerable<T> GetAll(string? includeProperties = null)
         {
             IQueryable<T> query = dbSet;
+
+            //If we need to include other properties (string contains them)
+            if (!string.IsNullOrEmpty(includeProperties))
+            {
+                // Separating them from comma
+                foreach (var includeProp in includeProperties
+                    .Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query = query.Include(includeProp);
+                }
+            }
+
             return query.ToList();
         }
 

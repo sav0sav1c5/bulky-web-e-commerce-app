@@ -1,9 +1,3 @@
-C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
-C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
-C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
-C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
@@ -12,6 +6,12 @@ C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.dll
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll

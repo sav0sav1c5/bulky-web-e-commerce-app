@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+      "PackagePath": "staticwebassets\\BulkyWeb.qf8kadenmq.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
@@ -11,6 +11,42 @@
     {
       "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\bulky_logo.png",
+      "PackagePath": "staticwebassets\\images\\bulky_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\0a08c6f0-300e-400d-91b9-e565145dbcbc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0a08c6f0-300e-400d-91b9-e565145dbcbc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\2c5cd3c0-7bb0-457f-9e64-2292b8c2c6e9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2c5cd3c0-7bb0-457f-9e64-2292b8c2c6e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\3963089b-ee79-40d8-a833-f06e23bb4a01.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3963089b-ee79-40d8-a833-f06e23bb4a01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\3f11772e-d703-42ea-a7e5-2717d1c20a46.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3f11772e-d703-42ea-a7e5-2717d1c20a46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\46c62579-6595-470f-8e05-9f12955653a2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\46c62579-6595-470f-8e05-9f12955653a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9ac34851-af45-4e73-bda7-72c3f59a947e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9ac34851-af45-4e73-bda7-72c3f59a947e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\f120595c-dde7-4269-b96b-042d363bd1b5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f120595c-dde7-4269-b96b-042d363bd1b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
       "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
@@ -243,6 +279,10 @@
     {
       "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",

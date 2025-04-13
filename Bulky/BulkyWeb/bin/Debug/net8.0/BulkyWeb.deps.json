@@ -1756,14 +1756,7 @@
           }
         }
       },
-      "System.Formats.Asn1/8.0.2": {
-        "runtime": {
-          "lib/net8.0/System.Formats.Asn1.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1325.6609"
-          }
-        }
-      },
+      "System.Formats.Asn1/8.0.2": {},
       "System.IdentityModel.Tokens.Jwt/6.35.0": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "6.35.0",
@@ -1920,17 +1913,26 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.15"
         },
         "runtime": {
-          "Bulky.DataAccess.dll": {}
+          "Bulky.DataAccess.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Bulky.Models/1.0.0": {
         "runtime": {
-          "Bulky.Models.dll": {}
+          "Bulky.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Bulky.Utility/1.0.0": {
         "runtime": {
-          "Bulky.Utility.dll": {}
+          "Bulky.Utility.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
