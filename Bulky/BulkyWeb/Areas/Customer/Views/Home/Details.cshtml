@@ -1,0 +1,101 @@
+﻿@model Product
+
+<div class="container py-4">
+    <form method="post">
+        <input asp-action="@Model.Id" hidden />
+        <div class="card shadow border-1 rounded-5">
+            <div class="card-header bg-primary">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h2 class="text-white text-uppercase mb-1">@Model.Title</h2>
+                        <p class="text-white-50 fw-semibold mb-1">@Model.Author</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body p-4">
+                <div class="row my-2">
+                    <div class="col-12">
+                        <a asp-action="Index" class="btn btn-primary btn-sm fw-semibold">BACK TO HOME</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-md-4 mb-4">
+                        <div class="card rounded-3 border-1 shadow-sm mb-3">
+                            <div class="p-3 card-img-container">
+                                <img src="@Model.ImageURL" alt="Product Image" class="product-image w-100" />
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <span class="badge bg-primary px-4 py-2">Category</span>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-8 mb-4">
+                        <div class="row mb-4">
+                            <div class="col-md-6">
+                                <div class="product-info mb-2">
+                                    <span class="fw-semibold text-primary">ISBN:</span>
+                                    <span>@Model.ISBN</span>
+                                </div>
+                            </div>
+                            <div class="col-md-6 text-md-end">
+                                <div class="product-info mb-2">
+                                    <span class="fw-semibold text-primary">List Price:</span>
+                                    <span class="text-decoration-line-through text-muted">@Model.ListPrice</span>
+                                    <span class="ms-2 fw-bold text-warning">@Model.Price100</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">Bulk Pricing</h5>
+                            <div class="card mb-3">
+                                <div class="table-responsive">
+                                    <table class="table table-bordered mb-0">
+                                        <thead class="bg-light">
+                                            <tr class="text-center">
+                                                <th>Quantity</th>
+                                                <th>1-50</th>
+                                                <th>51-100</th>
+                                                <th>100+</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr class="text-center">
+                                                <td>Price</td>
+                                                <td>@Model.Price</td>
+                                                <td>@Model.Price50</td>
+                                                <td>@Model.Price100</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-4">
+                            <h5 class="text-primary mb-3">Product Description</h5>
+                            <div class="alert alert-secondary">
+                                <p class="mb-0">@Model.Description</p>
+                            </div>
+                        </div>
+
+                        <div class="row align-items-end">
+                            <div class="col-md-4 mb-3 mb-md-0">
+                                <label for="quantity" class="form-label text-primary fw-semibold">Quantity</label>
+                                <div class="input-group">
+                                    <span class="input-group-text bg-primary text-white border-0">
+                                        <i class="bi bi-hash"></i>
+                                    </span>
+                                    <input type="number" id="quantity" value="1" min="1" class="form-control text-end" />
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <button type="submit" class="btn btn-primary w-100 py-2 fw-semibold">ADD TO CART (COMING SOON...)</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

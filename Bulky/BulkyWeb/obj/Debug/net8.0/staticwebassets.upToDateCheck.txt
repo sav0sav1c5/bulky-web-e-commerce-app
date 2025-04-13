@@ -4,7 +4,6 @@ wwwroot\images\bulky_logo.png
 wwwroot\images\product\0a08c6f0-300e-400d-91b9-e565145dbcbc.jpg
 wwwroot\images\product\2c5cd3c0-7bb0-457f-9e64-2292b8c2c6e9.jpg
 wwwroot\images\product\3963089b-ee79-40d8-a833-f06e23bb4a01.jpg
-wwwroot\images\product\3f11772e-d703-42ea-a7e5-2717d1c20a46.jpg
 wwwroot\images\product\46c62579-6595-470f-8e05-9f12955653a2.jpg
 wwwroot\images\product\9ac34851-af45-4e73-bda7-72c3f59a947e.jpg
 wwwroot\images\product\f120595c-dde7-4269-b96b-042d363bd1b5.jpg

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U26K+P8CvUJGrXZwxPTP4HAqkFAF9//tRHPS5PyKnfQ=",
+  "Hash": "SZPLUWGWKBhAejVNVidNqxaR7pgod15tthpgoRINc6c=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wkp9aim6gq",
-      "Integrity": "QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=",
+      "Fingerprint": "14g7jmywx4",
+      "Integrity": "UXg/rcmvVDob7BE5i59GZNjrDKo4UUfkQf6AfA5/R1I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -183,27 +183,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\3963089b-ee79-40d8-a833-f06e23bb4a01.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\3f11772e-d703-42ea-a7e5-2717d1c20a46.jpg",
-      "SourceId": "BulkyWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/3f11772e-d703-42ea-a7e5-2717d1c20a46#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "k8tq0lak5g",
-      "Integrity": "fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\3f11772e-d703-42ea-a7e5-2717d1c20a46.jpg"
     },
     {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\46c62579-6595-470f-8e05-9f12955653a2.jpg",
@@ -325,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jk1sqgkcb3",
-      "Integrity": "89CnumTII6tQXsIFbPgDnNi/wjPOxBFqIP39D+bhosU=",
+      "Fingerprint": "7eubqka8z9",
+      "Integrity": "nzj3ByL59a9TSYUqF0j5/wKEjExVZeB+zD0/dyrt2tI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1532,7 +1511,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 22:31:58 GMT"
+          "Value": "Sun, 13 Apr 2025 17:00:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1569,7 +1548,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 22:31:58 GMT"
+          "Value": "Sun, 13 Apr 2025 17:00:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1614,7 +1593,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 22:31:58 GMT"
+          "Value": "Sun, 13 Apr 2025 17:00:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1659,7 +1638,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 22:31:58 GMT"
+          "Value": "Sun, 13 Apr 2025 17:00:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1674,6 +1653,51 @@
       ]
     },
     {
+      "Route": "css/site.14g7jmywx4.css",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXg/rcmvVDob7BE5i59GZNjrDKo4UUfkQf6AfA5/R1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 22:35:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "14g7jmywx4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXg/rcmvVDob7BE5i59GZNjrDKo4UUfkQf6AfA5/R1I="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1684,7 +1708,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11912"
+          "Value": "23573"
         },
         {
           "Name": "Content-Type",
@@ -1692,11 +1716,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=\""
+          "Value": "\"UXg/rcmvVDob7BE5i59GZNjrDKo4UUfkQf6AfA5/R1I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 08:47:47 GMT"
+          "Value": "Sun, 13 Apr 2025 22:35:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1706,52 +1730,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.wkp9aim6gq.css",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11912"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 08:47:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wkp9aim6gq"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-QGTQevBjEbvqKbOMqnqhsTKcxolOm6XOIyl+yTfk/qg="
+          "Value": "sha256-UXg/rcmvVDob7BE5i59GZNjrDKo4UUfkQf6AfA5/R1I="
         }
       ]
     },
@@ -1860,7 +1839,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 11:33:58 GMT"
+          "Value": "Sun, 13 Apr 2025 13:51:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1905,7 +1884,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 11:33:58 GMT"
+          "Value": "Sun, 13 Apr 2025 13:51:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1942,7 +1921,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:03:30 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1979,7 +1958,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:03:30 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2024,7 +2003,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:02:24 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2069,7 +2048,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:02:24 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2106,7 +2085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:01:32 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2143,7 +2122,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:01:32 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2162,88 +2141,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk="
-        }
-      ]
-    },
-    {
-      "Route": "images/product/3f11772e-d703-42ea-a7e5-2717d1c20a46.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\3f11772e-d703-42ea-a7e5-2717d1c20a46.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "79536"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:06:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM="
-        }
-      ]
-    },
-    {
-      "Route": "images/product/3f11772e-d703-42ea-a7e5-2717d1c20a46.k8tq0lak5g.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\3f11772e-d703-42ea-a7e5-2717d1c20a46.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "79536"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:06:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k8tq0lak5g"
-        },
-        {
-          "Name": "label",
-          "Value": "images/product/3f11772e-d703-42ea-a7e5-2717d1c20a46.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM="
         }
       ]
     },
@@ -2270,7 +2167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:03:40 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2315,7 +2212,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:03:40 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2352,7 +2249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:03:47 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2389,7 +2286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:03:47 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2434,7 +2331,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:03:06 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2479,7 +2376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:03:06 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2516,7 +2413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:27:29 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2561,7 +2458,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:27:29 GMT"
+          "Value": "Sun, 13 Apr 2025 05:23:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2658,6 +2555,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.7eubqka8z9.css",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzj3ByL59a9TSYUqF0j5/wKEjExVZeB+zD0/dyrt2tI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 13 Apr 2025 15:04:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7eubqka8z9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzj3ByL59a9TSYUqF0j5/wKEjExVZeB+zD0/dyrt2tI="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
@@ -2668,7 +2610,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "321140"
+          "Value": "311763"
         },
         {
           "Name": "Content-Type",
@@ -2676,11 +2618,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"89CnumTII6tQXsIFbPgDnNi/wjPOxBFqIP39D+bhosU=\""
+          "Value": "\"nzj3ByL59a9TSYUqF0j5/wKEjExVZeB+zD0/dyrt2tI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 07:57:19 GMT"
+          "Value": "Sun, 13 Apr 2025 15:04:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2690,7 +2632,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-89CnumTII6tQXsIFbPgDnNi/wjPOxBFqIP39D+bhosU="
+          "Value": "sha256-nzj3ByL59a9TSYUqF0j5/wKEjExVZeB+zD0/dyrt2tI="
         }
       ]
     },
@@ -2773,51 +2715,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.jk1sqgkcb3.css",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "321140"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"89CnumTII6tQXsIFbPgDnNi/wjPOxBFqIP39D+bhosU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 12 Apr 2025 07:57:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jk1sqgkcb3"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-89CnumTII6tQXsIFbPgDnNi/wjPOxBFqIP39D+bhosU="
         }
       ]
     },
