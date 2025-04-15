@@ -115,6 +115,8 @@ button.accept-policy {
     border-radius: 0.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
     transition: transform 0.2s, box-shadow 0.2s;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
 }
 
     .card:hover {

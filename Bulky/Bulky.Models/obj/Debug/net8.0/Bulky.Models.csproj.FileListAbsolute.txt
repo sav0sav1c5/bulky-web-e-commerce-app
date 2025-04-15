@@ -10,3 +10,4 @@ C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.Models\obj\
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
 C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
