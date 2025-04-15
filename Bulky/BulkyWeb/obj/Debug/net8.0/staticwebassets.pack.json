@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\images\\product\\f120595c-dde7-4269-b96b-042d363bd1b5.jpg"
     },
     {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
       "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },

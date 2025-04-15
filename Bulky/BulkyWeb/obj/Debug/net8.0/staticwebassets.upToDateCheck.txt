@@ -7,6 +7,7 @@ wwwroot\images\product\3963089b-ee79-40d8-a833-f06e23bb4a01.jpg
 wwwroot\images\product\46c62579-6595-470f-8e05-9f12955653a2.jpg
 wwwroot\images\product\9ac34851-af45-4e73-bda7-72c3f59a947e.jpg
 wwwroot\images\product\f120595c-dde7-4269-b96b-042d363bd1b5.jpg
+wwwroot\js\company.js
 wwwroot\js\product.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

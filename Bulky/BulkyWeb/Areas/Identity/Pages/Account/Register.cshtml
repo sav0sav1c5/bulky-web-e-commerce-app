@@ -84,11 +84,23 @@
                             </div>
                         </div>
 
-                        <div class="form-floating mb-3">
-                            <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
-                                <option selected disabled>-- Select Role --</option>
-                            </select>
-                            <label asp-for="Input.Role">Role</label>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
+                                        <option selected disabled>-- Select Role --</option>
+                                    </select>
+                                    <label asp-for="Input.Role">Role</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <select asp-for="Input.CompanyId" style="display:none;" asp-items="@Model.Input.CompanyList" class="form-select">
+                                        <option selected disabled>-- Select Company --</option>
+                                    </select>
+                                    <label asp-for="Input.CompanyId">Company</label>
+                                </div>
+                            </div>
                         </div>
 
                         <div class="my-4">
@@ -140,4 +152,18 @@
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
+    <script>
+        $(document).ready(function () {
+            $('#Input_Role').change(function () {
+                // If role 'COMPANY' selected in form - we toggle the dropdown
+                var selection = $('#Input_Role Option:Selected'.text();
+                if (selection == 'COMPANY') {
+                    $('#Input_CompanyId').show();
+                }
+                else {
+                    $('#Input_CompanyId').hide();
+                }
+            })
+        })
+    </script>
 }

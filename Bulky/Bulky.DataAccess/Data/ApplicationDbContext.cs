@@ -16,6 +16,7 @@ namespace Bulky.DataAccess.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+        public DbSet<Company> Companies { get; set; }
 
         // Table Seed
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -114,7 +115,40 @@ namespace Bulky.DataAccess.Data
                     CategoryId = 4,
                     ImageURL = ""
                 }
-           );
+            );
+
+            modelBuilder.Entity<Company>().HasData(
+                new Company
+                {
+                    Id = 1,
+                    Name = "NIS Gasprom Neft",
+                    StreetAddress = "Narodnog fronta 12",
+                    City = "Novi Sad",
+                    State = "Serbia",
+                    PhoneNumber = "021-481-1111",
+                    PostalCode = "21000"
+                }, 
+                new Company
+                {
+                    Id = 2,
+                    Name = "Telekom Srbija",
+                    StreetAddress = "Takovska 1",
+                    City = "Belgrade",
+                    State = "Serbia",
+                    PhoneNumber = "011-123-4567",
+                    PostalCode = "11000"
+                },
+                new Company
+                {
+                    Id = 3,
+                    Name = "Hemofarm",
+                    StreetAddress = "Beogradski put bb",
+                    City = "Vrsac",
+                    State = "Serbia",
+                    PhoneNumber = "021-481-1111",
+                    PostalCode = "26300"
+                } 
+            );
         }
     }
 }
