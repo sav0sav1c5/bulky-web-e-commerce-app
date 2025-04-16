@@ -122,6 +122,7 @@ namespace BulkyWeb.Areas.Identity.Pages.Account
             public string? City { get; set; }
             public string? State { get; set; }
             public string? PhoneNumber { get; set; }
+            public string? PostalCode { get; set; }
 
             // Add CompanyId inside InputModel
             public int? CompanyId { get; set; }
@@ -176,6 +177,8 @@ namespace BulkyWeb.Areas.Identity.Pages.Account
                 user.City = Input.City;
                 user.State = Input.State;
                 user.PhoneNumber = Input.PhoneNumber;
+                user.PostalCode = Input.PostalCode;
+
                 user.Role = Input.Role;
 
                 // If user in registration choose role 'COMPANY' it's allowed for him to pick company
@@ -191,7 +194,7 @@ namespace BulkyWeb.Areas.Identity.Pages.Account
                 {
                     _logger.LogInformation("User created a new account with password.");
 
-                    // If user is successfully created to see if he has role, 
+                    // If user is successfully created to see if he has role
                     if (!String.IsNullOrEmpty(Input.Role))
                     {
                         // If he do have a role we will give him that role

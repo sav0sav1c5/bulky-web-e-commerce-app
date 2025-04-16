@@ -83,9 +83,15 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="row">
                             <div class="col-md-6">
+                                <div class="form-floating mb-3">
+                                    <input asp-for="Input.PostalCode" class="form-control" placeholder="State" />
+                                    <label asp-for="Input.PostalCode">Postal Code</label>
+                                    <span asp-validation-for="Input.PostalCode" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
                                 <div class="form-floating mb-3">
                                     <select asp-for="Input.Role" asp-items="@Model.Input.RoleList" class="form-select">
                                         <option selected disabled>-- Select Role --</option>
@@ -93,12 +99,12 @@
                                     <label asp-for="Input.Role">Role</label>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-3">
                                 <div class="form-floating mb-3">
-                                    <select asp-for="Input.CompanyId" style="display:none;" asp-items="@Model.Input.CompanyList" class="form-select">
-                                        <option selected disabled>-- Select Company --</option>
+                                    <select asp-for="Input.CompanyId" class="text-white form-select" style="display:none;" asp-items="@Model.Input.CompanyList">
+                                        <option disabled selected>-- Select Company --</option>
                                     </select>
-                                    <label asp-for="Input.CompanyId">Company</label>
+                                    <label asp-for="Input.CompanyId" class="text-white">Company</label>
                                 </div>
                             </div>
                         </div>
@@ -156,7 +162,7 @@
         $(document).ready(function () {
             $('#Input_Role').change(function () {
                 // If role 'COMPANY' selected in form - we toggle the dropdown
-                var selection = $('#Input_Role Option:Selected'.text();
+                var selection = $('#Input_Role Option:Selected').text();
                 if (selection == 'COMPANY') {
                     $('#Input_CompanyId').show();
                 }

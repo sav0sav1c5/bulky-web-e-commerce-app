@@ -1,6 +1,8 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\book.png
 wwwroot\images\bulky_logo.png
+wwwroot\images\lawn_leaf.jpg
 wwwroot\images\product\15afc3c7-15d8-484c-9e43-0d0f28e4460d.jpg
 wwwroot\images\product\553318e8-818d-4b07-936f-d9a0924e01af.jpg
 wwwroot\images\product\64385f36-722b-44af-a2f8-9da4deb0dfd1.jpg

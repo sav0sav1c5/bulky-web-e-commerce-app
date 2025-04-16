@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xrPusd5Uj/oXj33a3/DW7SBl3kVlsTaIMz3/6zOeE/8=",
+  "Hash": "6vV2RpI53iWmtIYnmKhVPPWgvPxlXxtHpkeAWtJ+J1I=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1361,6 +1361,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/book#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ta44cbam0i",
+      "Integrity": "O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\book.png"
+    },
+    {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\bulky_logo.png",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -1380,6 +1401,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\bulky_logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/lawn_leaf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r1girycgsq",
+      "Integrity": "v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
     },
     {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\15afc3c7-15d8-484c-9e43-0d0f28e4460d.jpg",
@@ -2792,7 +2834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 09:24:11 GMT"
+          "Value": "Wed, 16 Apr 2025 22:31:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2829,7 +2871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 09:24:11 GMT"
+          "Value": "Wed, 16 Apr 2025 22:31:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2874,7 +2916,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 09:24:11 GMT"
+          "Value": "Wed, 16 Apr 2025 22:31:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2919,7 +2961,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 09:24:11 GMT"
+          "Value": "Wed, 16 Apr 2025 22:31:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5318,6 +5360,88 @@
       ]
     },
     {
+      "Route": "images/book.png",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:22:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM="
+        }
+      ]
+    },
+    {
+      "Route": "images/book.ta44cbam0i.png",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\book.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:22:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ta44cbam0i"
+        },
+        {
+          "Name": "label",
+          "Value": "images/book.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1mc9TeNoSLcfE9Y8rAt34UeznMLc9ARMpPknARQlxM="
+        }
+      ]
+    },
+    {
       "Route": "images/bulky_logo.n4xio7el6r.png",
       "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\bulky_logo.png",
       "Selectors": [],
@@ -5400,6 +5524,88 @@
       ]
     },
     {
+      "Route": "images/lawn_leaf.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "962896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:22:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg="
+        }
+      ]
+    },
+    {
+      "Route": "images/lawn_leaf.r1girycgsq.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "962896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:22:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r1girycgsq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lawn_leaf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6T3Kn35L6tFufzUrWBb3paRq4gqwg/hg/ua37dOipg="
+        }
+      ]
+    },
+    {
       "Route": "images/product/15afc3c7-15d8-484c-9e43-0d0f28e4460d.e6vrbzb0s4.jpg",
       "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\15afc3c7-15d8-484c-9e43-0d0f28e4460d.jpg",
       "Selectors": [],
@@ -5422,7 +5628,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:54:25 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5467,7 +5673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:54:25 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5504,7 +5710,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:55:20 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5541,7 +5747,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:55:20 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5586,7 +5792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:54:43 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5631,7 +5837,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:54:43 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5668,7 +5874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:54:05 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5705,7 +5911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:54:05 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5750,7 +5956,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:54:54 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5787,7 +5993,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:54:54 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5832,7 +6038,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:55:09 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5877,7 +6083,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 16 Apr 2025 02:55:09 GMT"
+          "Value": "Wed, 16 Apr 2025 09:33:29 GMT"
         },
         {
           "Name": "Cache-Control",
