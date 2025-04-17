@@ -25,32 +25,16 @@
       "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
     },
     {
-      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\15afc3c7-15d8-484c-9e43-0d0f28e4460d.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\15afc3c7-15d8-484c-9e43-0d0f28e4460d.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\553318e8-818d-4b07-936f-d9a0924e01af.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\553318e8-818d-4b07-936f-d9a0924e01af.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\64385f36-722b-44af-a2f8-9da4deb0dfd1.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\64385f36-722b-44af-a2f8-9da4deb0dfd1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\a94a63eb-66e3-4369-bd76-39084ba0a3bf.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\a94a63eb-66e3-4369-bd76-39084ba0a3bf.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\aa44ff25-c780-42a3-8f2d-b00aa27b2bb7.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\aa44ff25-c780-42a3-8f2d-b00aa27b2bb7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\e6ec276f-5622-4c76-b7fa-b66faea58d98.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\e6ec276f-5622-4c76-b7fa-b66faea58d98.jpg"
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\5d9c2436-5de0-4097-9c14-c0a758c9901a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5d9c2436-5de0-4097-9c14-c0a758c9901a.jpg"
     },
     {
       "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
       "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
     },
     {
       "Id": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",

@@ -147,7 +147,7 @@ namespace Bulky.DataAccess.Migrations
                     b.Property<int>("OrderHeaderId")
                         .HasColumnType("int");
 
-                    b.Property<double>("Priced")
+                    b.Property<double>("Price")
                         .HasColumnType("float");
 
                     b.Property<int>("ProductId")
@@ -288,6 +288,118 @@ namespace Bulky.DataAccess.Migrations
                         new
                         {
                             Id = 1,
+                            Author = "Mark Manson",
+                            CategoryId = 1,
+                            Description = "A counterintuitive approach to living a good life. This book challenges the conventional wisdom about positivity and happiness, arguing that accepting our limitations and embracing our fears leads to more meaningful lives.",
+                            ISBN = "978-0062457714",
+                            ImageURL = "",
+                            ListPrice = 26.989999999999998,
+                            Price = 24.989999999999998,
+                            Price100 = 19.989999999999998,
+                            Price50 = 22.989999999999998,
+                            Title = "The Subtle Art of Not Giving a F*ck"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Author = "Dale Carnegie",
+                            CategoryId = 3,
+                            Description = "This timeless bestseller has helped countless people climb the ladder of success in their business and personal lives. Learn the six ways to make people like you, the twelve ways to win people to your way of thinking, and the nine ways to change people without arousing resentment.",
+                            ISBN = "978-0671027032",
+                            ImageURL = "",
+                            ListPrice = 19.989999999999998,
+                            Price = 17.989999999999998,
+                            Price100 = 13.99,
+                            Price50 = 15.99,
+                            Title = "How to Win Friends and Influence People"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Author = "Rebecca Yarros",
+                            CategoryId = 2,
+                            Description = "A sweeping fantasy about a kingdom divided by magic, where a girl with forbidden magic must unite with a disgraced royal in order to save their world from destruction.",
+                            ISBN = "978-0062652668",
+                            ImageURL = "",
+                            ListPrice = 18.989999999999998,
+                            Price = 16.989999999999998,
+                            Price100 = 14.5,
+                            Price50 = 15.5,
+                            Title = "Onyx & Ivory"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Author = "Patrick King",
+                            CategoryId = 3,
+                            Description = "How to analyze, understand, and predict people's emotions, thoughts, intentions, and behaviors. This practical guide provides insights into human psychology and teaches techniques for better understanding others.",
+                            ISBN = "978-1647433727",
+                            ImageURL = "/images/products/read-people-like-a-book.jpg",
+                            ListPrice = 16.989999999999998,
+                            Price = 15.99,
+                            Price100 = 12.99,
+                            Price50 = 14.5,
+                            Title = "Read People Like a Book"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Author = "Robert T. Kiyosaki",
+                            CategoryId = 2,
+                            Description = "What the rich teach their kids about money that the poor and middle class do not. This personal finance classic challenges conventional views on work, saving, investing and building wealth.",
+                            ISBN = "978-1612680194",
+                            ImageURL = "",
+                            ListPrice = 17.949999999999999,
+                            Price = 15.949999999999999,
+                            Price100 = 12.99,
+                            Price50 = 14.5,
+                            Title = "Rich Dad Poor Dad"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Author = "Robert Jordan",
+                            CategoryId = 2,
+                            Description = "The first book in Robert Jordan's epic fantasy series. When their village is attacked by terrifying creatures, three young men begin a perilous journey that will change their lives forever.",
+                            ISBN = "978-1250251466",
+                            ImageURL = "",
+                            ListPrice = 22.989999999999998,
+                            Price = 19.989999999999998,
+                            Price100 = 16.989999999999998,
+                            Price50 = 18.5,
+                            Title = "The Wheel of Time: The Eye of the World"
+                        },
+                        new
+                        {
+                            Id = 7,
+                            Author = "Morgan Housel",
+                            CategoryId = 4,
+                            Description = "Timeless lessons on wealth, greed, and happiness. This book explores how your personal experiences with money shape your behavior more than logic or facts, and how to make better financial decisions.",
+                            ISBN = "978-0857197689",
+                            ImageURL = "",
+                            ListPrice = 19.989999999999998,
+                            Price = 17.989999999999998,
+                            Price100 = 14.99,
+                            Price50 = 16.5,
+                            Title = "The Psychology of Money"
+                        },
+                        new
+                        {
+                            Id = 8,
+                            Author = "Yoshitomo Nara",
+                            CategoryId = 2,
+                            Description = "A delightful collection showcasing the whimsical and distinctive art of Yoshitomo Nara, featuring his iconic wide-eyed children and animals that blend innocence with defiance.",
+                            ISBN = "978-0714857466",
+                            ImageURL = "",
+                            ListPrice = 45.0,
+                            Price = 42.990000000000002,
+                            Price100 = 38.990000000000002,
+                            Price50 = 40.5,
+                            Title = "Yoshitomo Nara Art Book"
+                        },
+                        new
+                        {
+                            Id = 9,
                             Author = "Billy Spark",
                             CategoryId = 1,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
@@ -301,7 +413,7 @@ namespace Bulky.DataAccess.Migrations
                         },
                         new
                         {
-                            Id = 2,
+                            Id = 10,
                             Author = "Nancy Hoover",
                             CategoryId = 2,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
@@ -315,7 +427,7 @@ namespace Bulky.DataAccess.Migrations
                         },
                         new
                         {
-                            Id = 3,
+                            Id = 11,
                             Author = "Julian Button",
                             CategoryId = 2,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
@@ -329,7 +441,7 @@ namespace Bulky.DataAccess.Migrations
                         },
                         new
                         {
-                            Id = 4,
+                            Id = 12,
                             Author = "Abby Muscles",
                             CategoryId = 3,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
@@ -343,7 +455,7 @@ namespace Bulky.DataAccess.Migrations
                         },
                         new
                         {
-                            Id = 5,
+                            Id = 13,
                             Author = "Ron Parker",
                             CategoryId = 4,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
@@ -357,7 +469,7 @@ namespace Bulky.DataAccess.Migrations
                         },
                         new
                         {
-                            Id = 6,
+                            Id = 14,
                             Author = "Laura Phantom",
                             CategoryId = 4,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
@@ -620,9 +732,6 @@ namespace Bulky.DataAccess.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("PostalCode")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Role")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("State")

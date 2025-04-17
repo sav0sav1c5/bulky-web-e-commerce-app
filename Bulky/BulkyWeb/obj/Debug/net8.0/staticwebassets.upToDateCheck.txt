@@ -3,13 +3,9 @@ wwwroot\favicon.ico
 wwwroot\images\book.png
 wwwroot\images\bulky_logo.png
 wwwroot\images\lawn_leaf.jpg
-wwwroot\images\product\15afc3c7-15d8-484c-9e43-0d0f28e4460d.jpg
-wwwroot\images\product\553318e8-818d-4b07-936f-d9a0924e01af.jpg
-wwwroot\images\product\64385f36-722b-44af-a2f8-9da4deb0dfd1.jpg
-wwwroot\images\product\a94a63eb-66e3-4369-bd76-39084ba0a3bf.jpg
-wwwroot\images\product\aa44ff25-c780-42a3-8f2d-b00aa27b2bb7.jpg
-wwwroot\images\product\e6ec276f-5622-4c76-b7fa-b66faea58d98.jpg
+wwwroot\images\product\5d9c2436-5de0-4097-9c14-c0a758c9901a.jpg
 wwwroot\js\company.js
+wwwroot\js\order.js
 wwwroot\js\product.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

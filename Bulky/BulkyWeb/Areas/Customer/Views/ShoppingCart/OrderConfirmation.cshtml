@@ -1,19 +1,35 @@
 ﻿@model int
 
-<div class="container row my-4">
-    <div class="card col-8 text-center">
-        <div class="card-body bg-primary bg-gradient py-2">
-            <h1 class="text-secondary text-center">Order placed successfully!</h1> 
-        </div>
-        <div class="card-body text-center">
-            <div class="text-center">
-                Your Order Number is: @Model <br /><br />
-                <img src="/images//lawn_leaf.jpg" width="60%" />
-            </div>
-            <div class="text-center" style="color:maroon">
-                <br />
-                Your order has been placed successfully!
-                <br />
+<div class="container py-3">
+    <div class="row w-100 justify-content-center">
+        <div class="col-md-8">
+            <div class="card border-0 shadow rounded-5">
+                <div class="card-header bg-primary py-2">
+                    <div class="row">
+                        <div class="col-12 text-center text-light">
+                            <h2 class="text-light">Order placed successfully!</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body p-4">
+                    <div class="text-center mb-3">
+                        <div class="mb-3">
+                            <span class="text-secondary">Your Order Number is:</span>
+                            <h3 class="text-primary">@Model</h3>
+                        </div>
+                        <div class="my-3 d-flex justify-content-center">
+                            <div class="bg-success rounded-circle p-3" style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center;">
+                                <i class="bi bi-check text-white" style="font-size: 3rem;"></i>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <div class="alert alert-success">
+                                <h4 class="mb-3">Thank you for your purchase!</h4>
+                                <p>Your order has been placed successfully and is now being processed. You will receive a confirmation email shortly with all the details.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

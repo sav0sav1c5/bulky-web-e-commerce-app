@@ -27,10 +27,10 @@
                     <ul class="navbar-nav me-auto">
 
                         <li class="nav-item">
-                            <a class="nav-link text-light fw-semibold" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a>
+                            <a class="nav-link text-light fw-semibold" asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-light fw-semibold" asp-area="Customer" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-light fw-semibold" asp-area="Admin" asp-controller="Order" asp-action="Index">Manage Order</a>
                         </li>
                         @*if (User.IsInRole(SD.Role_Admin))
                         {
@@ -79,7 +79,7 @@
         </nav>
     </header>
     <div class="container">
-        <main role="main" class="pb-3">
+        <main role="main" class="content-fluid p-0 m-0">
             <partial name="_Notification" />
             @RenderBody()
         </main>
