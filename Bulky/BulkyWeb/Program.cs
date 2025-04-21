@@ -5,6 +5,7 @@ using Bulky.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
+using Bulky.DataAccess.DbInitializer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -49,8 +50,8 @@ builder.Services.AddSession(options =>
 builder.Services.AddRazorPages();
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-
 builder.Services.AddScoped<IEmailSender, EmailSender>();
+builder.Services.AddScoped<IDbInitializer, DbInitializer>();
 
 var app = builder.Build();
 
@@ -73,6 +74,8 @@ app.UseAuthentication();
 app.UseAuthorization();
 // Session - also need to be added in request pipeline
 app.UseSession();
+// Invoked method to seed database
+SeedDatabase();
 // Use all Razor Pages of application and map them like endpoints so they can respond to HTTP request
 app.MapRazorPages();
 app.MapControllerRoute(
@@ -80,3 +83,12 @@ app.MapControllerRoute(
     pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+void SeedDatabase()
+{
+    using (var scope = app.Services.CreateScope())
+    {
+        var dbInitialized = scope.ServiceProvider.GetRequiredService<IDbInitializer>();
+        dbInitialized.Initialize();
+    }
+}
