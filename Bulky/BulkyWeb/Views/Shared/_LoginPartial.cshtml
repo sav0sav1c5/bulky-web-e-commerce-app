@@ -9,9 +9,12 @@
     <li class="nav-item">
             <a id="manage" class="nav-link text-light fw-semibold" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @UserManager.GetUserName(User)!</a>
     </li>
-    <li class="nav-item">
-            <form id="logoutForm" class="form-inline text-light fw-semibold" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
-            <button id="logout" type="submit" class="nav-link btn btn-link border-0">Logout</button>
+    <li class="nav-item" style="margin-left:4px">
+            <form id="logoutForm" class="form-inline text-primary fw-semibold mr-2 " asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button id="logout" type="submit" class="nav-link btn btn-secondary border-0 mr-2">
+                Logout
+                    <i class="bi bi-box-arrow-right"></i>
+            </button>
         </form>
     </li>
 }

@@ -11,7 +11,7 @@ using System.Diagnostics;
 namespace BulkyWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    // [Authorize]
+    [Authorize]
     public class OrderController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;

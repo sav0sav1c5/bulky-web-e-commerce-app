@@ -224,8 +224,15 @@ namespace BulkyWeb.Areas.Identity.Pages.Account
                     }
                     else
                     {
-                        // Line of code that automatically 'Login' user after he finish 'Registration'
-                        await _signInManager.SignInAsync(user, isPersistent: false);
+                        if(!User.IsInRole(SD.Role_Admin))
+                        {
+                            TempData["success"] = "New user created successfully!";
+                        }
+                        else
+                        {
+                            // Line of code that automatically 'Login' user after he finish 'Registration'
+                            await _signInManager.SignInAsync(user, isPersistent: false);
+                        }
                         return LocalRedirect(returnUrl);
                     }
                 }

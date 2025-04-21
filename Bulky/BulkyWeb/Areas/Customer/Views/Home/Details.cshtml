@@ -1,22 +1,25 @@
 ﻿@model ShoppingCart
 
-<div class="container py-4">
+<div class="container my-1">
     <form method="post">
-        @*<input asp-action="@Model.Product.Id" hidden />*@
+        <input asp-action="@Model.ProductId" hidden />
         <input asp-for="ProductId" hidden />
         <div class="card shadow border-1 rounded-5">
             <div class="card-header bg-primary">
                 <div class="row">
                     <div class="col-12 text-center">
                         <h2 class="text-white text-uppercase mb-1">@Model.Product.Title</h2>
-                        <p class="text-white-50 fw-semibold mb-1">@Model.Product.Author</p>
+                        <h4 class="text-white mb-1">@Model.Product.Author</h4>
                     </div>
                 </div>
             </div>
-            <div class="card-body p-4">
-                <div class="row my-2">
+            <div class="card-body px-4 py-2">
+                <div class="row mt-2">
                     <div class="col-12">
-                        <a asp-action="Index" class="btn btn-primary btn-sm fw-semibold">BACK TO HOME</a>
+                        <a asp-action="Index" class="btn btn-outline-primary text-uppercase btn-sm">
+                            <i class="bi bi-arrow-left"></i>
+                            BACK TO HOME
+                        </a>
                     </div>
                 </div>
                 <div class="row">
@@ -27,11 +30,11 @@
                             </div>
                         </div>
                         <div class="text-center">
-                            <span class="badge bg-primary px-4 py-2">Category</span>
+                            <span class="badge bg-primary fw-bold px-4 py-2">@Model.Product.Category.Name</span>
                         </div>
                     </div>
-                    <div class="col-12 col-md-8 mb-4">
-                        <div class="row mb-4">
+                    <div class="col-12 col-md-8 mb-4 mt-4">
+                        <div class="row mb-2">
                             <div class="col-md-6">
                                 <div class="product-info mb-2">
                                     <span class="fw-semibold text-primary">ISBN:</span>
@@ -47,7 +50,7 @@
                             </div>
                         </div>
 
-                        <div class="mb-4">
+                        <div class="mb-2">
                             <h5 class="text-primary mb-3">Bulk Pricing</h5>
                             <div class="card mb-3">
                                 <div class="table-responsive">
@@ -73,7 +76,7 @@
                             </div>
                         </div>
 
-                        <div class="mb-4">
+                        <div class="mb-2">
                             <h5 class="text-primary mb-3">Product Description</h5>
                             <div class="alert alert-secondary">
                                 <p class="mb-0">@Html.Raw(@Model.Product.Description)</p>
@@ -84,10 +87,10 @@
                             <div class="col-md-4 mb-3 mb-md-0">
                                 <label for="quantity" class="form-label text-primary fw-semibold">Quantity</label>
                                 <div class="input-group">
-                                    <span class="input-group-text bg-primary text-white border-0">
+                                    <span class="input-group-text bg-primary text-white border-0 rounded-5">
                                         <i class="bi bi-hash"></i>
                                     </span>
-                                    <input asp-for="Count" type="number" value="1" min="1" class="form-control text-end" />
+                                    <input asp-for="Count" type="number" value="1" min="1" class="form-control text-end" style="margin-left: 4px" />
                                 </div>
                             </div>
                             <div class="col-md-8">

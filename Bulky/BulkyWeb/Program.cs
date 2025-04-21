@@ -28,6 +28,23 @@ builder.Services.ConfigureApplicationCookie(options => {
     options.AccessDeniedPath = $"/Identity/Account/AccessDenied";
 });
 
+// Adding authentication for Facebook
+builder.Services.AddAuthentication().AddFacebook(options => {
+    options.AppId = "1734738443748849";
+    options.AppSecret = "42381240f538a5779befd70dfe7e6df9";
+});
+
+// Distributed memory cache
+builder.Services.AddDistributedMemoryCache();
+
+// Session - this is just adding session to services
+builder.Services.AddSession(options =>
+{
+    options.IOTimeout = TimeSpan.FromMinutes(100);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+
 // Registered AddRazorPages
 builder.Services.AddRazorPages();
 
@@ -54,6 +71,8 @@ app.UseRouting();
 app.UseAuthentication();
 // Check if user has valid credentials has permission to access some resource
 app.UseAuthorization();
+// Session - also need to be added in request pipeline
+app.UseSession();
 // Use all Razor Pages of application and map them like endpoints so they can respond to HTTP request
 app.MapRazorPages();
 app.MapControllerRoute(

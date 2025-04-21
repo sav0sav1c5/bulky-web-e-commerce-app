@@ -274,8 +274,7 @@ button.accept-policy {
     color: #fff;
     background-color: #245F73;
     border-color: #245F73;
-    border-radius: 0.25rem;
-    margin-bottom: 0.5rem;
+    border-radius: 0.50rem;
 }
 
     .btn-primary:hover {
@@ -1030,7 +1029,7 @@ button[type="submit"].btn-primary {
     }
 
 .product-card-img-container {
-    height: 350px;
+    height: 300px;
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -1086,4 +1085,16 @@ button[type="submit"].btn-primary {
 .text-danger {
     margin-bottom: 0.5rem;
     font-size: 1.1rem;
+}
+
+/* Custom form input styles */
+.form-floating {
+    margin-bottom: 0.5rem; /* Reduce spacing between inputs */
+}
+
+.form-control {
+    height: 40px; /* Smaller height */
+    border-radius: 0.5rem; /* Rounded corners */
+    padding: 0.5rem 0.5rem; /* Adjust padding to align placeholder */
+    font-size: 0.9rem; /* Slightly smaller font */
 }

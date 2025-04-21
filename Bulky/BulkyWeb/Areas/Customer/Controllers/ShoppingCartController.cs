@@ -53,10 +53,11 @@ namespace BulkyWeb.Areas.Customer.Controllers
 
         public IActionResult Minus(int shoppingCartId)
         {
-            var shoppingCartFromDb = _unitOfWork.ShoppingCart.Get(u => u.Id == shoppingCartId);
+            var shoppingCartFromDb = _unitOfWork.ShoppingCart.Get(u => u.Id == shoppingCartId, tracked: true);
 
             if (shoppingCartFromDb.Count <= 1)
             {
+                HttpContext.Session.SetInt32(SD.SessionCart, _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == shoppingCartFromDb.ApplicationUserId).Count() - 1);
                 _unitOfWork.ShoppingCart.Remove(shoppingCartFromDb);
             }
             else
@@ -66,12 +67,16 @@ namespace BulkyWeb.Areas.Customer.Controllers
             }
 
             _unitOfWork.Save();
+            
             return RedirectToAction(nameof(Index));
         }
 
         public IActionResult Remove(int shoppingCartId)
         {
-            var shoppingCartFromDb = _unitOfWork.ShoppingCart.Get(u => u.Id == shoppingCartId);
+            // We will need to add tracked true so entity is tracked and can be removed successfully
+            var shoppingCartFromDb = _unitOfWork.ShoppingCart.Get(u => u.Id == shoppingCartId, tracked: true);
+            // Reduced by 1 because item will be removed in next line
+            HttpContext.Session.SetInt32(SD.SessionCart, _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == shoppingCartFromDb.ApplicationUserId).Count() - 1);
             _unitOfWork.ShoppingCart.Remove(shoppingCartFromDb);
             _unitOfWork.Save();
             return RedirectToAction(nameof(Index));
@@ -179,6 +184,24 @@ namespace BulkyWeb.Areas.Customer.Controllers
 
         public IActionResult OrderConfirmation(int id)
         {
+            OrderHeader orderHeader = _unitOfWork.OrderHeader.Get(u => u.Id == id, includeProperties: "ApplicationUser");
+            
+            if(orderHeader.PaymentStatus != SD.PaymentStatusDelayedPayment)
+            {
+                // Logic if stripe used with session
+                // var service = new SessionService();
+                // Session session = service.Get(orderHeader.SessionId);
+
+                // if (session.PaymentStatus.ToLower() == "paid") 
+                //  {
+                //  _unitOfWork.OrderHeader.UpdateStringPaymentID(id, session.Id, session.PaymentIntentId);
+                //  _unitOfWork.OrderHeader.UpdateStatus(id, SD.StatusApproved,SD.PaymentStatusApproved);
+                //  _unitOfWork.Save();
+                //  }
+
+                HttpContext.Session.Clear();
+            }
+
             return View(id);
         }
 

@@ -4505,7 +4505,8 @@ textarea.form-control-lg {
             visibility: visible !important;
             background-color: transparent !important;
             border: 0 !important;
-            transform: none !important;
+            trans
+                : none !important;
             transition: none;
         }
 

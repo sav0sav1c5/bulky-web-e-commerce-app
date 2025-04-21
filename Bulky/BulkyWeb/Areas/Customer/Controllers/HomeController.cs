@@ -1,6 +1,7 @@
 using Bulky.DataAccess.Repository;
 using Bulky.DataAccess.Repository.IRepository;
 using Bulky.Models;
+using Bulky.Utility;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -22,6 +23,17 @@ namespace BulkyWeb.Areas.Customer.Controllers
 
         public IActionResult Index()
         {
+            // Get user Id (value could be null, so we need to check)
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var claimedUser = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+
+            if (claimedUser != null)
+            {
+                // If value is not null, user is logged in
+                HttpContext.Session.SetInt32(SD.SessionCart,
+                _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == claimedUser.Value).Count());
+            }
+
             IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category");
             return View(productList);
         }
@@ -62,14 +74,22 @@ namespace BulkyWeb.Areas.Customer.Controllers
                 // Update shopping cart
                 shoppingCartFromDb.Count += obj.Count;
                 _unitOfWork.ShoppingCart.Update(shoppingCartFromDb);
+                _unitOfWork.Save();
             }
             else
             {
                 // Add shopping cart
                 _unitOfWork.ShoppingCart.Add(obj);
+                _unitOfWork.Save();
+                // Whenever we are adding new item in shopping cart, we also add it in session
+                // In order to do that we will need key and value
+                HttpContext.Session.SetInt32(SD.SessionCart,
+                    // This is bad because it return just one shopping cart
+                    // _unitOfWork.ShoppingCart.Get(u => u.ApplicationUserId == userId).Count);
+                    // This okay because we first GetAll shopping carts, not just one and then calculate count of all products 
+                    _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == userId).Count());
             }
-            
-            _unitOfWork.Save();
+
             TempData["success"] = "Shopping cart updated successfully!";
             
             // Instead of using return RedirectToAction("Index");
