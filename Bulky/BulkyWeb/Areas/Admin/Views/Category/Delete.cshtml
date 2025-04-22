@@ -1,10 +1,10 @@
 ﻿@model Category
 
 <div class="card shadow border-0 mt-4">
-    <div class="cardcard-header bg-secondary bg-gradient ml-0 py-3">
+    <div class="cardcard-header bg-primary ml-0 py-3">
         <div class="row">
             <div class="col-12 text-center">
-                <h2 class="text-white py-2">Delete Category</h2>
+                <h2 class="text-white py-2 fw-semibold">Delete Category</h2>
             </div>
         </div>
     </div>
@@ -12,15 +12,15 @@
         <form method="post">
             <div class="border m-4 p-3">
                 @*<div asp-validation-summary="ModelOnly"></div>*@
-                <div class="mb-3 row p-1">
-                    <label asp-for="Name" class="ms-2"></label>
+                <div class="form-floating py-2 col-12">
+                    <label asp-for="Name" class="mb-1"></label>
                     <input asp-for="Name" disabled class="form-control border-0 shadow" />
                 </div>
-                <div class="mb-3 row p-1">
-                    <label asp-for="DisplayOrder" class="ms-2">Display Order</label>
+                <div class="form-floating py-2 col-12">
+                    <label asp-for="DisplayOrder" class="mb-1">Display Order</label>
                     <input asp-for="DisplayOrder" disabled class="form-control border-0 shadow" />
                 </div>
-                <div class="row">
+                <div class="row justify-content-center">
                     <div class="col-6 col-md-3">
                         <button type="submit" class="btn btn-danger form-control">Delete</button>
                     </div>

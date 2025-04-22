@@ -1,10 +1,10 @@
 ﻿@model Category
 
 <div class="card shadow border-0 mt-4">
-    <div class="cardcard-header bg-secondary bg-gradient ml-0 py-3">
+    <div class="card-header bg-primary ml-0 py-3">
         <div class="row">
             <div class="col-12 text-center">
-                <h2 class="text-white py-2">Edit Category</h2>
+                <h2 class="text-white py-2 fw-semibold">Edit Category</h2>
             </div>
         </div>
     </div>
@@ -22,7 +22,7 @@
                     <input asp-for="DisplayOrder" class="form-control border-0 shadow" />
                     <span asp-validation-for="DisplayOrder" class="text-danger"></span>
                 </div>
-                <div class="row">
+                <div class="row justify-content-center">
                     <div class="col-6 col-md-3">
                         <button type="submit" class="btn btn-primary form-control">Update</button>
                     </div>

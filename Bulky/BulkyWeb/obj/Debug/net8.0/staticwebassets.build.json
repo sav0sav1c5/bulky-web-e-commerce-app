@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I/qeQjHnVmMjK1OOBcClAqlovsKTudYp/GcLlAOJ85I=",
+  "Hash": "Ch+Lp26m3fkZWZgCoTO2ipkaCSmk/OOngO4EsP6mxQ8=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1718,6 +1718,90 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\e70caa4c-6966-4c2c-adb7-9bb406f21637.jpg"
     },
     {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-1\\39552b42-75b7-4f83-bdad-934b4eceaa44.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-1/39552b42-75b7-4f83-bdad-934b4eceaa44#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f2w1ek8ihl",
+      "Integrity": "aQlVAI1Ij+CtMYNzAOJ4nDObpA4736yUBJSKl2y4LIw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-1\\39552b42-75b7-4f83-bdad-934b4eceaa44.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-1\\51085d45-199f-4abb-b06e-26737d3d2544.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-1/51085d45-199f-4abb-b06e-26737d3d2544#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f2w1ek8ihl",
+      "Integrity": "aQlVAI1Ij+CtMYNzAOJ4nDObpA4736yUBJSKl2y4LIw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-1\\51085d45-199f-4abb-b06e-26737d3d2544.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\4ceff026-e0ad-4244-8e4f-3b98a9c2891b.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-10/4ceff026-e0ad-4244-8e4f-3b98a9c2891b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e6vrbzb0s4",
+      "Integrity": "lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-10\\4ceff026-e0ad-4244-8e4f-3b98a9c2891b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\ba3b6897-9614-4081-a46b-587cd1a548e8.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-10/ba3b6897-9614-4081-a46b-587cd1a548e8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k8tq0lak5g",
+      "Integrity": "fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-10\\ba3b6897-9614-4081-a46b-587cd1a548e8.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\e83dbb3d-9160-49c4-a53b-cb9a91de8b70.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -1739,12 +1823,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-10\\e83dbb3d-9160-49c4-a53b-cb9a91de8b70.jpg"
     },
     {
-      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\ec622b1d-69f9-4cae-b9fa-e858ce68a392.jpg",
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\3cf2a477-71f5-43b6-9245-a8be7658cb5e.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/products/product-10/ec622b1d-69f9-4cae-b9fa-e858ce68a392#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/products/product-11/3cf2a477-71f5-43b6-9245-a8be7658cb5e#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1753,19 +1837,82 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "k8tq0lak5g",
-      "Integrity": "fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=",
+      "Fingerprint": "3hdhlwry2x",
+      "Integrity": "d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-10\\ec622b1d-69f9-4cae-b9fa-e858ce68a392.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-11\\3cf2a477-71f5-43b6-9245-a8be7658cb5e.jpg"
     },
     {
-      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\514a9add-9f22-4d17-b602-bfb7579b9a92.jpg",
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\6820edc0-0c9c-4515-8122-d1d9dc33ac1f.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/products/product-12/514a9add-9f22-4d17-b602-bfb7579b9a92#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/products/product-11/6820edc0-0c9c-4515-8122-d1d9dc33ac1f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrkel7u0jv",
+      "Integrity": "Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-11\\6820edc0-0c9c-4515-8122-d1d9dc33ac1f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\7e4777a9-720c-4863-a11b-16c94a205726.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-11/7e4777a9-720c-4863-a11b-16c94a205726#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hdhlwry2x",
+      "Integrity": "d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-11\\7e4777a9-720c-4863-a11b-16c94a205726.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\d05be752-3d08-44fe-8fed-605160bac549.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-11/d05be752-3d08-44fe-8fed-605160bac549#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrkel7u0jv",
+      "Integrity": "Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-11\\d05be752-3d08-44fe-8fed-605160bac549.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\4db5dfd5-d52d-457f-847f-8141839b9e80.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-12/4db5dfd5-d52d-457f-847f-8141839b9e80#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1778,7 +1925,49 @@
       "Integrity": "JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-12\\514a9add-9f22-4d17-b602-bfb7579b9a92.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-12\\4db5dfd5-d52d-457f-847f-8141839b9e80.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\544fa52f-7077-4915-8e73-a8ddf437a328.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-12/544fa52f-7077-4915-8e73-a8ddf437a328#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cafjpk87dy",
+      "Integrity": "JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-12\\544fa52f-7077-4915-8e73-a8ddf437a328.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\5857cba1-435e-4cb0-b44b-2faca040c642.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-12/5857cba1-435e-4cb0-b44b-2faca040c642#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cafjpk87dy",
+      "Integrity": "JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-12\\5857cba1-435e-4cb0-b44b-2faca040c642.jpg"
     },
     {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\6c2cde36-51a5-4148-81a2-0a57bb3aaa05.jpg",
@@ -1802,6 +1991,48 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-12\\6c2cde36-51a5-4148-81a2-0a57bb3aaa05.jpg"
     },
     {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\e3f76ec1-11b1-4b76-9382-065e2f747f14.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-12/e3f76ec1-11b1-4b76-9382-065e2f747f14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qxby501rkx",
+      "Integrity": "7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-12\\e3f76ec1-11b1-4b76-9382-065e2f747f14.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\13218bdb-73fd-4918-b133-3e5ac0967db7.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-13/13218bdb-73fd-4918-b133-3e5ac0967db7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "asbi4wwv9t",
+      "Integrity": "1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-13\\13218bdb-73fd-4918-b133-3e5ac0967db7.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\27ff34e7-2819-44ee-aed0-c3ba6c6f01e3.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -1823,12 +2054,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-13\\27ff34e7-2819-44ee-aed0-c3ba6c6f01e3.jpg"
     },
     {
-      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\3f2962bc-03de-4807-9d89-605359e7f4a2.jpg",
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\91673cc5-479d-4093-b47d-bb3ec3c39116.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/products/product-13/3f2962bc-03de-4807-9d89-605359e7f4a2#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/products/product-13/91673cc5-479d-4093-b47d-bb3ec3c39116#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1841,7 +2072,49 @@
       "Integrity": "C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-13\\3f2962bc-03de-4807-9d89-605359e7f4a2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-13\\91673cc5-479d-4093-b47d-bb3ec3c39116.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\d78f77cf-24ae-4dd9-8bee-f0f1bfb2e7e4.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-13/d78f77cf-24ae-4dd9-8bee-f0f1bfb2e7e4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z6xgka4h72",
+      "Integrity": "C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-13\\d78f77cf-24ae-4dd9-8bee-f0f1bfb2e7e4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\11645018-8446-4fe3-a161-10c98bee70bf.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-14/11645018-8446-4fe3-a161-10c98bee70bf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cppe75kvzh",
+      "Integrity": "YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-14\\11645018-8446-4fe3-a161-10c98bee70bf.jpg"
     },
     {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\123bda54-5d35-4f5a-9a6e-7b588b62ad4e.jpg",
@@ -1865,12 +2138,33 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-14\\123bda54-5d35-4f5a-9a6e-7b588b62ad4e.jpg"
     },
     {
-      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\b1463945-9b6b-454f-a3fd-07af2f1c4f74.jpg",
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\314ca52b-db77-4ea8-84b6-fa4765fb475c.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/products/product-14/b1463945-9b6b-454f-a3fd-07af2f1c4f74#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/products/product-14/314ca52b-db77-4ea8-84b6-fa4765fb475c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ye39k9dvz5",
+      "Integrity": "imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-14\\314ca52b-db77-4ea8-84b6-fa4765fb475c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\9b9e99cd-6a68-4676-bf5c-971540141aad.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-14/9b9e99cd-6a68-4676-bf5c-971540141aad#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1883,7 +2177,28 @@
       "Integrity": "YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-14\\b1463945-9b6b-454f-a3fd-07af2f1c4f74.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-14\\9b9e99cd-6a68-4676-bf5c-971540141aad.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-2\\393209e5-eb1c-426c-959e-bef78aa8c7c3.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-2/393209e5-eb1c-426c-959e-bef78aa8c7c3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d2rq3ekuz7",
+      "Integrity": "e1kT2hpvdpHhRuDvdaP4c/lMiR1kqch6B1PyQsBZp/w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-2\\393209e5-eb1c-426c-959e-bef78aa8c7c3.jpg"
     },
     {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-2\\f04bbd3e-a2a0-4b93-8de6-b2b60a8c1232.jpg",
@@ -1905,6 +2220,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\product-2\\f04bbd3e-a2a0-4b93-8de6-b2b60a8c1232.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-3\\b586533c-3742-4fe9-b0ac-e9902db2dfd9.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-3/b586533c-3742-4fe9-b0ac-e9902db2dfd9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3o638jg1w7",
+      "Integrity": "g7iUyqovsfV2uHmzhdvRivx+2181C9YgvbBtQeX5cdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-3\\b586533c-3742-4fe9-b0ac-e9902db2dfd9.jpg"
     },
     {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-3\\bb60a835-cc87-4608-9491-f97fbc46c9a1.jpg",
@@ -1949,6 +2285,48 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-4\\703d6602-ff3b-435a-957a-d0454a2b0693.jpg"
     },
     {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-4\\8b263ef5-6662-4be5-8fd3-3d20a3acf97c.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-4/8b263ef5-6662-4be5-8fd3-3d20a3acf97c#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iackwz4w95",
+      "Integrity": "OkdIs25Ow644QGxO/OqOY09YE96GXOOx3HYU/jp6V9k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-4\\8b263ef5-6662-4be5-8fd3-3d20a3acf97c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-5\\17a8387f-717d-4eaa-ae27-5d1790bfcc87.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-5/17a8387f-717d-4eaa-ae27-5d1790bfcc87#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3gn3644jbm",
+      "Integrity": "c++U2P6gXGhh9Db2aDULMnb+JYpMRlmfx09oBVkLQNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-5\\17a8387f-717d-4eaa-ae27-5d1790bfcc87.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-5\\3ccc1d38-8151-4485-ae1a-a209f3ec44e9.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -1968,6 +2346,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\product-5\\3ccc1d38-8151-4485-ae1a-a209f3ec44e9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-6\\808d2e12-323f-40a0-8d9e-d7e0ab2ef936.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-6/808d2e12-323f-40a0-8d9e-d7e0ab2ef936#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "069wqhdzrm",
+      "Integrity": "aMSfpvOofbV94sekl459/Pso38Y23s7QhCkrDd86EXE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-6\\808d2e12-323f-40a0-8d9e-d7e0ab2ef936.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-6\\99e45f19-8eda-48a6-a537-01459e8506fa.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-6/99e45f19-8eda-48a6-a537-01459e8506fa#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "069wqhdzrm",
+      "Integrity": "aMSfpvOofbV94sekl459/Pso38Y23s7QhCkrDd86EXE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-6\\99e45f19-8eda-48a6-a537-01459e8506fa.jpg"
     },
     {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-7\\73833356-1ab1-41ad-b38d-134c8d5b5772.jpg",
@@ -1991,12 +2411,12 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-7\\73833356-1ab1-41ad-b38d-134c8d5b5772.jpg"
     },
     {
-      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-9\\2cdd96cc-ae3e-4a8d-87a5-0f494e116204.jpg",
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-7\\f5fc5a60-5130-401d-9b90-13d71804c427.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/products/product-9/2cdd96cc-ae3e-4a8d-87a5-0f494e116204#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/products/product-7/f5fc5a60-5130-401d-9b90-13d71804c427#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2005,11 +2425,53 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9tz06a7s4d",
-      "Integrity": "TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw=",
+      "Fingerprint": "fh5i32ik1o",
+      "Integrity": "Qzfs6DMKLPVZSpcyLgrJgeKtto0ufcY132Z2zcTEr3Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\product-9\\2cdd96cc-ae3e-4a8d-87a5-0f494e116204.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-7\\f5fc5a60-5130-401d-9b90-13d71804c427.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-8\\2a2ef059-1a37-40a7-80e9-3a27c4476359.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-8/2a2ef059-1a37-40a7-80e9-3a27c4476359#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2guemjahx1",
+      "Integrity": "XoxZP4Lv1IL8gkg6223cS0RImGWTdO027ChslF2HzFQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-8\\2a2ef059-1a37-40a7-80e9-3a27c4476359.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-8\\dc2de56f-f19a-4a79-a0af-17e41ae11cda.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-8/dc2de56f-f19a-4a79-a0af-17e41ae11cda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2guemjahx1",
+      "Integrity": "XoxZP4Lv1IL8gkg6223cS0RImGWTdO027ChslF2HzFQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-8\\dc2de56f-f19a-4a79-a0af-17e41ae11cda.jpg"
     },
     {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-9\\2f6ee66b-a312-47c6-be84-8d0b0461dc95.jpg",
@@ -2033,6 +2495,48 @@
       "OriginalItemSpec": "wwwroot\\images\\products\\product-9\\2f6ee66b-a312-47c6-be84-8d0b0461dc95.jpg"
     },
     {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-9\\84cd3f9c-6a20-4a0f-8098-204c61bcc4c4.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-9/84cd3f9c-6a20-4a0f-8098-204c61bcc4c4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ecb6f2vn57",
+      "Integrity": "Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-9\\84cd3f9c-6a20-4a0f-8098-204c61bcc4c4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-9\\d3f927a7-330e-4092-ac34-e52d9a6f25b0.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/products/product-9/d3f927a7-330e-4092-ac34-e52d9a6f25b0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9tz06a7s4d",
+      "Integrity": "TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\product-9\\d3f927a7-330e-4092-ac34-e52d9a6f25b0.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -2047,8 +2551,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "op8y5fzs4o",
-      "Integrity": "nFFaClkkylBysmA1CFDyxQ/A1SYHR7Yon6FxIOlTc10=",
+      "Fingerprint": "qlk6smth51",
+      "Integrity": "Mo7zilkOzQ+32KBVN2xfNVJhkINMizvcbjL0Yw0+P/4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\company.js"
@@ -2089,8 +2593,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "a3p50dq157",
-      "Integrity": "RkJVNdfOkp01jUityvruxP4c2K/DPppzn6aubkQuD0c=",
+      "Fingerprint": "21d7zt15dd",
+      "Integrity": "tiSC/Wu9XBhLwai6o5uQ9kI8pf5PVCnid6TFF3Ak40I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\product.js"
@@ -3359,7 +3863,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:27:43 GMT"
+          "Value": "Tue, 22 Apr 2025 04:03:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3396,7 +3900,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:27:43 GMT"
+          "Value": "Tue, 22 Apr 2025 04:03:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3441,7 +3945,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:27:43 GMT"
+          "Value": "Tue, 22 Apr 2025 04:03:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3486,7 +3990,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:27:43 GMT"
+          "Value": "Tue, 22 Apr 2025 04:03:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7279,6 +7783,334 @@
       ]
     },
     {
+      "Route": "images/products/product-1/39552b42-75b7-4f83-bdad-934b4eceaa44.f2w1ek8ihl.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-1\\39552b42-75b7-4f83-bdad-934b4eceaa44.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aQlVAI1Ij+CtMYNzAOJ4nDObpA4736yUBJSKl2y4LIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:20:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f2w1ek8ihl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-1/39552b42-75b7-4f83-bdad-934b4eceaa44.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aQlVAI1Ij+CtMYNzAOJ4nDObpA4736yUBJSKl2y4LIw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-1/39552b42-75b7-4f83-bdad-934b4eceaa44.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-1\\39552b42-75b7-4f83-bdad-934b4eceaa44.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aQlVAI1Ij+CtMYNzAOJ4nDObpA4736yUBJSKl2y4LIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:20:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aQlVAI1Ij+CtMYNzAOJ4nDObpA4736yUBJSKl2y4LIw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-1/51085d45-199f-4abb-b06e-26737d3d2544.f2w1ek8ihl.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-1\\51085d45-199f-4abb-b06e-26737d3d2544.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aQlVAI1Ij+CtMYNzAOJ4nDObpA4736yUBJSKl2y4LIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f2w1ek8ihl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-1/51085d45-199f-4abb-b06e-26737d3d2544.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aQlVAI1Ij+CtMYNzAOJ4nDObpA4736yUBJSKl2y4LIw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-1/51085d45-199f-4abb-b06e-26737d3d2544.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-1\\51085d45-199f-4abb-b06e-26737d3d2544.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aQlVAI1Ij+CtMYNzAOJ4nDObpA4736yUBJSKl2y4LIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aQlVAI1Ij+CtMYNzAOJ4nDObpA4736yUBJSKl2y4LIw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-10/4ceff026-e0ad-4244-8e4f-3b98a9c2891b.e6vrbzb0s4.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\4ceff026-e0ad-4244-8e4f-3b98a9c2891b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:14:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e6vrbzb0s4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-10/4ceff026-e0ad-4244-8e4f-3b98a9c2891b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-10/4ceff026-e0ad-4244-8e4f-3b98a9c2891b.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\4ceff026-e0ad-4244-8e4f-3b98a9c2891b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:14:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-10/ba3b6897-9614-4081-a46b-587cd1a548e8.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\ba3b6897-9614-4081-a46b-587cd1a548e8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-10/ba3b6897-9614-4081-a46b-587cd1a548e8.k8tq0lak5g.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\ba3b6897-9614-4081-a46b-587cd1a548e8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k8tq0lak5g"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-10/ba3b6897-9614-4081-a46b-587cd1a548e8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM="
+        }
+      ]
+    },
+    {
       "Route": "images/products/product-10/e83dbb3d-9160-49c4-a53b-cb9a91de8b70.e6vrbzb0s4.jpg",
       "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\e83dbb3d-9160-49c4-a53b-cb9a91de8b70.jpg",
       "Selectors": [],
@@ -7301,7 +8133,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:37:49 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7346,7 +8178,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:37:49 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7361,8 +8193,8 @@
       ]
     },
     {
-      "Route": "images/products/product-10/ec622b1d-69f9-4cae-b9fa-e858ce68a392.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\ec622b1d-69f9-4cae-b9fa-e858ce68a392.jpg",
+      "Route": "images/products/product-11/3cf2a477-71f5-43b6-9245-a8be7658cb5e.3hdhlwry2x.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\3cf2a477-71f5-43b6-9245-a8be7658cb5e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7371,7 +8203,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "79536"
+          "Value": "81505"
         },
         {
           "Name": "Content-Type",
@@ -7379,48 +8211,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=\""
+          "Value": "\"d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:37:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM="
-        }
-      ]
-    },
-    {
-      "Route": "images/products/product-10/ec622b1d-69f9-4cae-b9fa-e858ce68a392.k8tq0lak5g.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-10\\ec622b1d-69f9-4cae-b9fa-e858ce68a392.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "79536"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:37:49 GMT"
+          "Value": "Tue, 22 Apr 2025 04:21:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7430,21 +8225,304 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "k8tq0lak5g"
+          "Value": "3hdhlwry2x"
         },
         {
           "Name": "label",
-          "Value": "images/products/product-10/ec622b1d-69f9-4cae-b9fa-e858ce68a392.jpg"
+          "Value": "images/products/product-11/3cf2a477-71f5-43b6-9245-a8be7658cb5e.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM="
+          "Value": "sha256-d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4="
         }
       ]
     },
     {
-      "Route": "images/products/product-12/514a9add-9f22-4d17-b602-bfb7579b9a92.cafjpk87dy.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\514a9add-9f22-4d17-b602-bfb7579b9a92.jpg",
+      "Route": "images/products/product-11/3cf2a477-71f5-43b6-9245-a8be7658cb5e.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\3cf2a477-71f5-43b6-9245-a8be7658cb5e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:21:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-11/6820edc0-0c9c-4515-8122-d1d9dc33ac1f.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\6820edc0-0c9c-4515-8122-d1d9dc33ac1f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:20:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-11/6820edc0-0c9c-4515-8122-d1d9dc33ac1f.qrkel7u0jv.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\6820edc0-0c9c-4515-8122-d1d9dc33ac1f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:20:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrkel7u0jv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-11/6820edc0-0c9c-4515-8122-d1d9dc33ac1f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-11/7e4777a9-720c-4863-a11b-16c94a205726.3hdhlwry2x.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\7e4777a9-720c-4863-a11b-16c94a205726.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hdhlwry2x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-11/7e4777a9-720c-4863-a11b-16c94a205726.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-11/7e4777a9-720c-4863-a11b-16c94a205726.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\7e4777a9-720c-4863-a11b-16c94a205726.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-11/d05be752-3d08-44fe-8fed-605160bac549.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\d05be752-3d08-44fe-8fed-605160bac549.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-11/d05be752-3d08-44fe-8fed-605160bac549.qrkel7u0jv.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-11\\d05be752-3d08-44fe-8fed-605160bac549.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrkel7u0jv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-11/d05be752-3d08-44fe-8fed-605160bac549.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-12/4db5dfd5-d52d-457f-847f-8141839b9e80.cafjpk87dy.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\4db5dfd5-d52d-457f-847f-8141839b9e80.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7465,7 +8543,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:37:32 GMT"
+          "Value": "Tue, 22 Apr 2025 04:16:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7479,7 +8557,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/products/product-12/514a9add-9f22-4d17-b602-bfb7579b9a92.jpg"
+          "Value": "images/products/product-12/4db5dfd5-d52d-457f-847f-8141839b9e80.jpg"
         },
         {
           "Name": "integrity",
@@ -7488,8 +8566,8 @@
       ]
     },
     {
-      "Route": "images/products/product-12/514a9add-9f22-4d17-b602-bfb7579b9a92.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\514a9add-9f22-4d17-b602-bfb7579b9a92.jpg",
+      "Route": "images/products/product-12/4db5dfd5-d52d-457f-847f-8141839b9e80.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\4db5dfd5-d52d-457f-847f-8141839b9e80.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7510,7 +8588,171 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:37:32 GMT"
+          "Value": "Tue, 22 Apr 2025 04:16:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-12/544fa52f-7077-4915-8e73-a8ddf437a328.cafjpk87dy.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\544fa52f-7077-4915-8e73-a8ddf437a328.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:16:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cafjpk87dy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-12/544fa52f-7077-4915-8e73-a8ddf437a328.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-12/544fa52f-7077-4915-8e73-a8ddf437a328.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\544fa52f-7077-4915-8e73-a8ddf437a328.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:16:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-12/5857cba1-435e-4cb0-b44b-2faca040c642.cafjpk87dy.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\5857cba1-435e-4cb0-b44b-2faca040c642.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cafjpk87dy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-12/5857cba1-435e-4cb0-b44b-2faca040c642.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-12/5857cba1-435e-4cb0-b44b-2faca040c642.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\5857cba1-435e-4cb0-b44b-2faca040c642.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7547,7 +8789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:37:32 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7584,7 +8826,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:37:32 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7603,6 +8845,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-12/e3f76ec1-11b1-4b76-9382-065e2f747f14.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\e3f76ec1-11b1-4b76-9382-065e2f747f14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-12/e3f76ec1-11b1-4b76-9382-065e2f747f14.qxby501rkx.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-12\\e3f76ec1-11b1-4b76-9382-065e2f747f14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:14:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qxby501rkx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-12/e3f76ec1-11b1-4b76-9382-065e2f747f14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-13/13218bdb-73fd-4918-b133-3e5ac0967db7.asbi4wwv9t.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\13218bdb-73fd-4918-b133-3e5ac0967db7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:15:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "asbi4wwv9t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-13/13218bdb-73fd-4918-b133-3e5ac0967db7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-13/13218bdb-73fd-4918-b133-3e5ac0967db7.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\13218bdb-73fd-4918-b133-3e5ac0967db7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:15:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw="
         }
       ]
     },
@@ -7629,7 +9035,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:39:50 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7674,7 +9080,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:39:50 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7689,8 +9095,8 @@
       ]
     },
     {
-      "Route": "images/products/product-13/3f2962bc-03de-4807-9d89-605359e7f4a2.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\3f2962bc-03de-4807-9d89-605359e7f4a2.jpg",
+      "Route": "images/products/product-13/91673cc5-479d-4093-b47d-bb3ec3c39116.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\91673cc5-479d-4093-b47d-bb3ec3c39116.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7711,7 +9117,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:39:50 GMT"
+          "Value": "Tue, 22 Apr 2025 04:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7726,8 +9132,8 @@
       ]
     },
     {
-      "Route": "images/products/product-13/3f2962bc-03de-4807-9d89-605359e7f4a2.z6xgka4h72.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\3f2962bc-03de-4807-9d89-605359e7f4a2.jpg",
+      "Route": "images/products/product-13/91673cc5-479d-4093-b47d-bb3ec3c39116.z6xgka4h72.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\91673cc5-479d-4093-b47d-bb3ec3c39116.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7748,7 +9154,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:39:50 GMT"
+          "Value": "Tue, 22 Apr 2025 04:18:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7762,11 +9168,175 @@
         },
         {
           "Name": "label",
-          "Value": "images/products/product-13/3f2962bc-03de-4807-9d89-605359e7f4a2.jpg"
+          "Value": "images/products/product-13/91673cc5-479d-4093-b47d-bb3ec3c39116.jpg"
         },
         {
           "Name": "integrity",
           "Value": "sha256-C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-13/d78f77cf-24ae-4dd9-8bee-f0f1bfb2e7e4.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\d78f77cf-24ae-4dd9-8bee-f0f1bfb2e7e4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-13/d78f77cf-24ae-4dd9-8bee-f0f1bfb2e7e4.z6xgka4h72.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-13\\d78f77cf-24ae-4dd9-8bee-f0f1bfb2e7e4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z6xgka4h72"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-13/d78f77cf-24ae-4dd9-8bee-f0f1bfb2e7e4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-14/11645018-8446-4fe3-a161-10c98bee70bf.cppe75kvzh.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\11645018-8446-4fe3-a161-10c98bee70bf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:19:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cppe75kvzh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-14/11645018-8446-4fe3-a161-10c98bee70bf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-14/11645018-8446-4fe3-a161-10c98bee70bf.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\11645018-8446-4fe3-a161-10c98bee70bf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:19:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q="
         }
       ]
     },
@@ -7793,7 +9363,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:38:55 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7830,7 +9400,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:38:55 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7853,8 +9423,90 @@
       ]
     },
     {
-      "Route": "images/products/product-14/b1463945-9b6b-454f-a3fd-07af2f1c4f74.cppe75kvzh.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\b1463945-9b6b-454f-a3fd-07af2f1c4f74.jpg",
+      "Route": "images/products/product-14/314ca52b-db77-4ea8-84b6-fa4765fb475c.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\314ca52b-db77-4ea8-84b6-fa4765fb475c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:15:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-14/314ca52b-db77-4ea8-84b6-fa4765fb475c.ye39k9dvz5.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\314ca52b-db77-4ea8-84b6-fa4765fb475c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:15:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ye39k9dvz5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-14/314ca52b-db77-4ea8-84b6-fa4765fb475c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-14/9b9e99cd-6a68-4676-bf5c-971540141aad.cppe75kvzh.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\9b9e99cd-6a68-4676-bf5c-971540141aad.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7875,7 +9527,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:38:55 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7889,7 +9541,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/products/product-14/b1463945-9b6b-454f-a3fd-07af2f1c4f74.jpg"
+          "Value": "images/products/product-14/9b9e99cd-6a68-4676-bf5c-971540141aad.jpg"
         },
         {
           "Name": "integrity",
@@ -7898,8 +9550,8 @@
       ]
     },
     {
-      "Route": "images/products/product-14/b1463945-9b6b-454f-a3fd-07af2f1c4f74.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\b1463945-9b6b-454f-a3fd-07af2f1c4f74.jpg",
+      "Route": "images/products/product-14/9b9e99cd-6a68-4676-bf5c-971540141aad.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-14\\9b9e99cd-6a68-4676-bf5c-971540141aad.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7920,7 +9572,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:38:55 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7931,6 +9583,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-2/393209e5-eb1c-426c-959e-bef78aa8c7c3.d2rq3ekuz7.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-2\\393209e5-eb1c-426c-959e-bef78aa8c7c3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e1kT2hpvdpHhRuDvdaP4c/lMiR1kqch6B1PyQsBZp/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:15:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d2rq3ekuz7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-2/393209e5-eb1c-426c-959e-bef78aa8c7c3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e1kT2hpvdpHhRuDvdaP4c/lMiR1kqch6B1PyQsBZp/w="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-2/393209e5-eb1c-426c-959e-bef78aa8c7c3.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-2\\393209e5-eb1c-426c-959e-bef78aa8c7c3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e1kT2hpvdpHhRuDvdaP4c/lMiR1kqch6B1PyQsBZp/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:15:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e1kT2hpvdpHhRuDvdaP4c/lMiR1kqch6B1PyQsBZp/w="
         }
       ]
     },
@@ -7957,7 +9691,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:38:27 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8002,7 +9736,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:38:27 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8013,6 +9747,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-e1kT2hpvdpHhRuDvdaP4c/lMiR1kqch6B1PyQsBZp/w="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-3/b586533c-3742-4fe9-b0ac-e9902db2dfd9.3o638jg1w7.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-3\\b586533c-3742-4fe9-b0ac-e9902db2dfd9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g7iUyqovsfV2uHmzhdvRivx+2181C9YgvbBtQeX5cdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:19:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3o638jg1w7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-3/b586533c-3742-4fe9-b0ac-e9902db2dfd9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g7iUyqovsfV2uHmzhdvRivx+2181C9YgvbBtQeX5cdw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-3/b586533c-3742-4fe9-b0ac-e9902db2dfd9.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-3\\b586533c-3742-4fe9-b0ac-e9902db2dfd9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g7iUyqovsfV2uHmzhdvRivx+2181C9YgvbBtQeX5cdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:19:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g7iUyqovsfV2uHmzhdvRivx+2181C9YgvbBtQeX5cdw="
         }
       ]
     },
@@ -8039,7 +9855,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:39:08 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8076,7 +9892,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:39:08 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8121,7 +9937,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:39:29 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8166,7 +9982,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:39:29 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8177,6 +9993,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-OkdIs25Ow644QGxO/OqOY09YE96GXOOx3HYU/jp6V9k="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-4/8b263ef5-6662-4be5-8fd3-3d20a3acf97c.iackwz4w95.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-4\\8b263ef5-6662-4be5-8fd3-3d20a3acf97c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OkdIs25Ow644QGxO/OqOY09YE96GXOOx3HYU/jp6V9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:15:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iackwz4w95"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-4/8b263ef5-6662-4be5-8fd3-3d20a3acf97c.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OkdIs25Ow644QGxO/OqOY09YE96GXOOx3HYU/jp6V9k="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-4/8b263ef5-6662-4be5-8fd3-3d20a3acf97c.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-4\\8b263ef5-6662-4be5-8fd3-3d20a3acf97c.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40532"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OkdIs25Ow644QGxO/OqOY09YE96GXOOx3HYU/jp6V9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:15:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OkdIs25Ow644QGxO/OqOY09YE96GXOOx3HYU/jp6V9k="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-5/17a8387f-717d-4eaa-ae27-5d1790bfcc87.3gn3644jbm.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-5\\17a8387f-717d-4eaa-ae27-5d1790bfcc87.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c++U2P6gXGhh9Db2aDULMnb+JYpMRlmfx09oBVkLQNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:15:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3gn3644jbm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-5/17a8387f-717d-4eaa-ae27-5d1790bfcc87.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c++U2P6gXGhh9Db2aDULMnb+JYpMRlmfx09oBVkLQNo="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-5/17a8387f-717d-4eaa-ae27-5d1790bfcc87.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-5\\17a8387f-717d-4eaa-ae27-5d1790bfcc87.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58599"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c++U2P6gXGhh9Db2aDULMnb+JYpMRlmfx09oBVkLQNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:15:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c++U2P6gXGhh9Db2aDULMnb+JYpMRlmfx09oBVkLQNo="
         }
       ]
     },
@@ -8203,7 +10183,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:39:40 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8248,7 +10228,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:39:40 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8259,6 +10239,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-c++U2P6gXGhh9Db2aDULMnb+JYpMRlmfx09oBVkLQNo="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-6/808d2e12-323f-40a0-8d9e-d7e0ab2ef936.069wqhdzrm.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-6\\808d2e12-323f-40a0-8d9e-d7e0ab2ef936.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aMSfpvOofbV94sekl459/Pso38Y23s7QhCkrDd86EXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "069wqhdzrm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-6/808d2e12-323f-40a0-8d9e-d7e0ab2ef936.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aMSfpvOofbV94sekl459/Pso38Y23s7QhCkrDd86EXE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-6/808d2e12-323f-40a0-8d9e-d7e0ab2ef936.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-6\\808d2e12-323f-40a0-8d9e-d7e0ab2ef936.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aMSfpvOofbV94sekl459/Pso38Y23s7QhCkrDd86EXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aMSfpvOofbV94sekl459/Pso38Y23s7QhCkrDd86EXE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-6/99e45f19-8eda-48a6-a537-01459e8506fa.069wqhdzrm.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-6\\99e45f19-8eda-48a6-a537-01459e8506fa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aMSfpvOofbV94sekl459/Pso38Y23s7QhCkrDd86EXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:20:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "069wqhdzrm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-6/99e45f19-8eda-48a6-a537-01459e8506fa.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aMSfpvOofbV94sekl459/Pso38Y23s7QhCkrDd86EXE="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-6/99e45f19-8eda-48a6-a537-01459e8506fa.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-6\\99e45f19-8eda-48a6-a537-01459e8506fa.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aMSfpvOofbV94sekl459/Pso38Y23s7QhCkrDd86EXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:20:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aMSfpvOofbV94sekl459/Pso38Y23s7QhCkrDd86EXE="
         }
       ]
     },
@@ -8285,7 +10429,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:40:00 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8330,7 +10474,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:40:00 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8345,8 +10489,8 @@
       ]
     },
     {
-      "Route": "images/products/product-9/2cdd96cc-ae3e-4a8d-87a5-0f494e116204.9tz06a7s4d.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-9\\2cdd96cc-ae3e-4a8d-87a5-0f494e116204.jpg",
+      "Route": "images/products/product-7/f5fc5a60-5130-401d-9b90-13d71804c427.fh5i32ik1o.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-7\\f5fc5a60-5130-401d-9b90-13d71804c427.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8355,7 +10499,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "77676"
+          "Value": "51037"
         },
         {
           "Name": "Content-Type",
@@ -8363,11 +10507,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw=\""
+          "Value": "\"Qzfs6DMKLPVZSpcyLgrJgeKtto0ufcY132Z2zcTEr3Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:38:05 GMT"
+          "Value": "Tue, 22 Apr 2025 04:18:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8377,21 +10521,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9tz06a7s4d"
+          "Value": "fh5i32ik1o"
         },
         {
           "Name": "label",
-          "Value": "images/products/product-9/2cdd96cc-ae3e-4a8d-87a5-0f494e116204.jpg"
+          "Value": "images/products/product-7/f5fc5a60-5130-401d-9b90-13d71804c427.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw="
+          "Value": "sha256-Qzfs6DMKLPVZSpcyLgrJgeKtto0ufcY132Z2zcTEr3Q="
         }
       ]
     },
     {
-      "Route": "images/products/product-9/2cdd96cc-ae3e-4a8d-87a5-0f494e116204.jpg",
-      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-9\\2cdd96cc-ae3e-4a8d-87a5-0f494e116204.jpg",
+      "Route": "images/products/product-7/f5fc5a60-5130-401d-9b90-13d71804c427.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-7\\f5fc5a60-5130-401d-9b90-13d71804c427.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8400,7 +10544,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "77676"
+          "Value": "51037"
         },
         {
           "Name": "Content-Type",
@@ -8408,11 +10552,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw=\""
+          "Value": "\"Qzfs6DMKLPVZSpcyLgrJgeKtto0ufcY132Z2zcTEr3Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:38:05 GMT"
+          "Value": "Tue, 22 Apr 2025 04:18:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8422,7 +10566,171 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw="
+          "Value": "sha256-Qzfs6DMKLPVZSpcyLgrJgeKtto0ufcY132Z2zcTEr3Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-8/2a2ef059-1a37-40a7-80e9-3a27c4476359.2guemjahx1.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-8\\2a2ef059-1a37-40a7-80e9-3a27c4476359.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XoxZP4Lv1IL8gkg6223cS0RImGWTdO027ChslF2HzFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2guemjahx1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-8/2a2ef059-1a37-40a7-80e9-3a27c4476359.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XoxZP4Lv1IL8gkg6223cS0RImGWTdO027ChslF2HzFQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-8/2a2ef059-1a37-40a7-80e9-3a27c4476359.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-8\\2a2ef059-1a37-40a7-80e9-3a27c4476359.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XoxZP4Lv1IL8gkg6223cS0RImGWTdO027ChslF2HzFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XoxZP4Lv1IL8gkg6223cS0RImGWTdO027ChslF2HzFQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-8/dc2de56f-f19a-4a79-a0af-17e41ae11cda.2guemjahx1.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-8\\dc2de56f-f19a-4a79-a0af-17e41ae11cda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XoxZP4Lv1IL8gkg6223cS0RImGWTdO027ChslF2HzFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2guemjahx1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-8/dc2de56f-f19a-4a79-a0af-17e41ae11cda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XoxZP4Lv1IL8gkg6223cS0RImGWTdO027ChslF2HzFQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-8/dc2de56f-f19a-4a79-a0af-17e41ae11cda.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-8\\dc2de56f-f19a-4a79-a0af-17e41ae11cda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XoxZP4Lv1IL8gkg6223cS0RImGWTdO027ChslF2HzFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:21:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XoxZP4Lv1IL8gkg6223cS0RImGWTdO027ChslF2HzFQ="
         }
       ]
     },
@@ -8449,7 +10757,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:38:05 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8494,7 +10802,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 02:38:05 GMT"
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8509,6 +10817,170 @@
       ]
     },
     {
+      "Route": "images/products/product-9/84cd3f9c-6a20-4a0f-8098-204c61bcc4c4.ecb6f2vn57.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-9\\84cd3f9c-6a20-4a0f-8098-204c61bcc4c4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:14:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ecb6f2vn57"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-9/84cd3f9c-6a20-4a0f-8098-204c61bcc4c4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-9/84cd3f9c-6a20-4a0f-8098-204c61bcc4c4.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-9\\84cd3f9c-6a20-4a0f-8098-204c61bcc4c4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 04:14:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-9/d3f927a7-330e-4092-ac34-e52d9a6f25b0.9tz06a7s4d.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-9\\d3f927a7-330e-4092-ac34-e52d9a6f25b0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tz06a7s4d"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/product-9/d3f927a7-330e-4092-ac34-e52d9a6f25b0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/product-9/d3f927a7-330e-4092-ac34-e52d9a6f25b0.jpg",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\product-9\\d3f927a7-330e-4092-ac34-e52d9a6f25b0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 02:47:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw="
+        }
+      ]
+    },
+    {
       "Route": "js/company.js",
       "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
       "Selectors": [],
@@ -8519,7 +10991,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1862"
+          "Value": "2047"
         },
         {
           "Name": "Content-Type",
@@ -8527,11 +10999,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nFFaClkkylBysmA1CFDyxQ/A1SYHR7Yon6FxIOlTc10=\""
+          "Value": "\"Mo7zilkOzQ+32KBVN2xfNVJhkINMizvcbjL0Yw0+P/4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 00:08:26 GMT"
+          "Value": "Tue, 22 Apr 2025 03:39:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8541,12 +11013,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nFFaClkkylBysmA1CFDyxQ/A1SYHR7Yon6FxIOlTc10="
+          "Value": "sha256-Mo7zilkOzQ+32KBVN2xfNVJhkINMizvcbjL0Yw0+P/4="
         }
       ]
     },
     {
-      "Route": "js/company.op8y5fzs4o.js",
+      "Route": "js/company.qlk6smth51.js",
       "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\company.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8556,7 +11028,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1862"
+          "Value": "2047"
         },
         {
           "Name": "Content-Type",
@@ -8564,11 +11036,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nFFaClkkylBysmA1CFDyxQ/A1SYHR7Yon6FxIOlTc10=\""
+          "Value": "\"Mo7zilkOzQ+32KBVN2xfNVJhkINMizvcbjL0Yw0+P/4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 00:08:26 GMT"
+          "Value": "Tue, 22 Apr 2025 03:39:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8578,7 +11050,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "op8y5fzs4o"
+          "Value": "qlk6smth51"
         },
         {
           "Name": "label",
@@ -8586,7 +11058,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nFFaClkkylBysmA1CFDyxQ/A1SYHR7Yon6FxIOlTc10="
+          "Value": "sha256-Mo7zilkOzQ+32KBVN2xfNVJhkINMizvcbjL0Yw0+P/4="
         }
       ]
     },
@@ -8673,7 +11145,7 @@
       ]
     },
     {
-      "Route": "js/product.a3p50dq157.js",
+      "Route": "js/product.21d7zt15dd.js",
       "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8683,7 +11155,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2722"
+          "Value": "2720"
         },
         {
           "Name": "Content-Type",
@@ -8691,11 +11163,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RkJVNdfOkp01jUityvruxP4c2K/DPppzn6aubkQuD0c=\""
+          "Value": "\"tiSC/Wu9XBhLwai6o5uQ9kI8pf5PVCnid6TFF3Ak40I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 00:08:26 GMT"
+          "Value": "Tue, 22 Apr 2025 03:41:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8705,7 +11177,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "a3p50dq157"
+          "Value": "21d7zt15dd"
         },
         {
           "Name": "label",
@@ -8713,7 +11185,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RkJVNdfOkp01jUityvruxP4c2K/DPppzn6aubkQuD0c="
+          "Value": "sha256-tiSC/Wu9XBhLwai6o5uQ9kI8pf5PVCnid6TFF3Ak40I="
         }
       ]
     },
@@ -8728,7 +11200,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2722"
+          "Value": "2720"
         },
         {
           "Name": "Content-Type",
@@ -8736,11 +11208,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RkJVNdfOkp01jUityvruxP4c2K/DPppzn6aubkQuD0c=\""
+          "Value": "\"tiSC/Wu9XBhLwai6o5uQ9kI8pf5PVCnid6TFF3Ak40I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Apr 2025 00:08:26 GMT"
+          "Value": "Tue, 22 Apr 2025 03:41:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8750,7 +11222,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RkJVNdfOkp01jUityvruxP4c2K/DPppzn6aubkQuD0c="
+          "Value": "sha256-tiSC/Wu9XBhLwai6o5uQ9kI8pf5PVCnid6TFF3Ak40I="
         }
       ]
     },

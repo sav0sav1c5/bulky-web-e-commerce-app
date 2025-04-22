@@ -22,11 +22,11 @@
                                 <div class="d-none d-lg-block col-lg-1 text-center py-2">
                                     @if (cart.Product.ProductImages != null && cart.Product.ProductImages.Count() > 0)
                                     {
-                                        <img src="@cart.Product.ProductImages.FirstOrDefault().ImageUrl" class="product-card-img-top rounded-top" />
+                                        <img src="@cart.Product.ProductImages.FirstOrDefault().ImageUrl" class="rounded" width="100%" />
                                     }
                                     else
                                     {
-                                        <img src="https://placeholder.co/500x600/png" class="product-card-img-top rounded-top w-100"/>
+                                        <img src="https://placeholder.co/500x600/png" class="rounded" width="100%" />
                                     }
                                     @*<img src="@cart.Product.ImageURL" class="rounded" width="100%" />*@
                                 </div>

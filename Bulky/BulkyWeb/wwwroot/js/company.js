@@ -13,20 +13,20 @@ function loadDataTable() {
             { data: 'city', "width": "10%" },
             { data: 'state', "width": "10%" },
             { data: 'phoneNumber', "width": "15%" },
-            { data: 'postalCode', "width": "15%" },
+            { data: 'postalCode', "width": "10%" },
             {
                 data: 'id',
                 "render": function (data) {
-                    return `<div class="w-75 btn-group" role="group">
-                        <a href="/admin/company/upsert?id=${data}" class="btn btn-primary mx-2">
-                            <i class="bi bi-pencil-square"></i> Edit
-                        </a>
-                        <a onClick=Delete('/admin/company/delete/${data}') class="btn btn-danger mx-2">
-                            <i class="bi bi-trash-fill"></i> Delete
-                        </a>
-                    </div>`
+                    return `<div class="d-flex justify-content-center gap-2">
+                                <a href="/admin/company/upsert?id=${data}" class="btn btn-primary w-50 d-flex align-items-center justify-content-center">
+                                    <i class="bi bi-pencil-square me-2"></i> Edit
+                                </a>
+                                <a onClick="Delete('/admin/company/delete/${data}')" class="btn btn-danger w-50 d-flex align-items-center justify-content-center rounded-5">
+                                    <i class="bi bi-trash-fill me-2"></i> Delete
+                                </a>
+                            </div>`;
                 },
-                "width": "20%"
+                "width": "25%"
             }
         ]
     });

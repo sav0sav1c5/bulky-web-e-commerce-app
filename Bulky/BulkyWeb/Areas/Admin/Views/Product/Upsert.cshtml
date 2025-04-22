@@ -1,10 +1,10 @@
 ﻿@model ProductViewModel
 
 <div class="card shadow border-0 m-0 mt-4">
-    <div class="card-header bg-secondary bg-gradient py-3">
+    <div class="card-header bg-primary py-3">
         <div class="row">
             <div class="col-12 text-center">
-                <h2 class="text-white py-2">@(Model.Product.Id != 0 ? "Update Product" : "Create Product")</h2>
+                <h2 class="text-white py-2 fw-semibold">@(Model.Product.Id != 0 ? "Update Product" : "Create Product")</h2>
             </div>
         </div>
     </div>
@@ -83,18 +83,18 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-2">
+                <div class="col-2 justify-content-center text-center">
                     @if (Model.Product.ProductImages != null)
                     {
                         foreach(var image in Model.Product.ProductImages)
                         {
                             <div class="border p-1 m-2 text-center">
                                 <img src="@image.ImageUrl" width="100%" style="border-radius:5px; border:1px solid #bbb9b9" />
-                                <a asp-action="DeleteImage" class="btn btn-danger" asp-route-imageId="@image.Id">
-                                    <i class="bi bi-trash-fill"></i> 
-                                    Delete
-                                </a>
                             </div>
+                            <a asp-action="DeleteImage" class="btn btn-danger justify-content-center text-center mb-3" asp-route-imageId="@image.Id">
+                                <i class="bi bi-trash-fill"></i>
+                                Delete
+                            </a>
                         }
                     }
                     @*<img src="@Model.Product.ImageURL" width="100%" style="border-radius:5px; border:1px solid #bbb9b9" />*@
