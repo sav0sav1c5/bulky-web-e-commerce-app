@@ -3,18 +3,21 @@
 <form method="post">
     <br />
     <div class="container">
-        <div class="card">
-            <div class="card-header bg-primary bg-gradient py-3">
+        <div class="card rounded-5 shadow my-2">
+            <div class="card-header bg-primary py-3">
                 <div class="container row">
-                    <div class="col-12 d-none d-md-block col-md-6 pb-1 text-light fw-bold">
-                        <i class="fas fa-shopping-cart"></i> &nbsp; Order Summary
-                    </div>
-                    <div class="col-12 col-md-4 offset-md-2 text-right">
-                        <a asp-action="Index" class="btn btn-outline-info form-control btn-sm">Back to Orders</a>
+                    <div class="col-12 text-center">
+                        <h1 class="text-light fw-bold"> Order Summary</h1>
                     </div>
                 </div>
             </div>
             <div class="card-body">
+                <div class="col-12">
+                    <a asp-action="Index" class="btn btn-outline-primary text-uppercase btn-sm">
+                        <i class="bi bi-arrow-left"></i>
+                        BACK TO ORDERS
+                    </a>
+                </div>
                 <div class="container rounded p-2">
                     <div class="row">
                         <div class="col-12 col-lg-6 pb-4">
@@ -118,7 +121,7 @@
                                 <div class="col-3">Order Date</div>
                                 <div class="col-9">
                                     @*Should not be possible to change*@
-                                    <input asp-for="@Model.OrderHeader.OrderDate.ToShortDateString()" readonly type="text" class="form-control" />
+                                    <input asp-for="OrderHeader.OrderDate" readonly type="text" class="form-control" />
                                 </div>
                             </div>
                             <div class="row my-1">
@@ -150,7 +153,7 @@
                             <div class="row my-1">
                                 <div class="col-3">Shipping Date</div>
                                 <div class="col-9">
-                                    <input value="@Model.OrderHeader.ShippingDate.ToShortDateString()" readonly type="text" class="form-control" />
+                                    <input asp-for="OrderHeader.ShippingDate" readonly type="text" class="form-control" />
                                 </div>
                             </div>
 
@@ -172,20 +175,21 @@
                             }
 
                             <div class="row my-1">
-                                @*if (Model.OrderHeader.SessionId == null)*@
-                                @*{*@
-                                <div class="col-3">Payment Due Date</div>
-                                <div class="col-9">
-                                    <input value="@Model.OrderHeader.PaymentDuoDate.ToShortDateString()" readonly type="text" class="form-control" />
-                                </div>
-                                @*}*@
-                                @*else*@
-                                @*{*@
-                                <div class="col-3">Payment Date</div>
-                                <div class="col-9">
-                                    <input value="@Model.OrderHeader.PaymentDate.ToShortDateString()" readonly type="text" class="form-control" />
-                                </div>
-                                @*}*@
+                                @if (Model.OrderHeader.SessionId == null)
+                                {
+                                    <div class="col-3">Payment Due Date</div>
+                                    <div class="col-9">
+                                        <input value="@Model.OrderHeader.PaymentDueDate.ToShortDateString()" readonly type="text" class="form-control" />
+                                    </div>
+
+                                }
+                                else
+                                {
+                                    <div class="col-3">Payment Date</div>
+                                    <div class="col-9">
+                                        <input value="@Model.OrderHeader.PaymentDate.ToShortDateString()" readonly type="text" class="form-control" />
+                                    </div>
+                                }
                             </div>
                             <div class="row my-1">
                                 <div class="col-3">Payment Status</div>

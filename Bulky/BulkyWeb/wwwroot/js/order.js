@@ -43,9 +43,11 @@ function loadDataTable(status) {
             {
                 data: 'id',
                 "render": function (data) {
-                    return `<a href="/admin/order/details?orderId=${data}" class="btn btn-primary m-3">
-                    <i class="bi bi-pencil-square"></i>
-                    </a>`
+                    return `<div class="d-flex justify-content-center">
+                                <a href="/admin/order/details?orderId=${data}" class="btn btn-primary">
+                                    <i class="bi bi-pencil-square"></i>
+                                </a>
+                            </div>`
                 },
                 "width": "15%"
             }

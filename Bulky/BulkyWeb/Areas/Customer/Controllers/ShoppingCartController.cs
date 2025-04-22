@@ -202,9 +202,19 @@ namespace BulkyWeb.Areas.Customer.Controllers
                 //  _unitOfWork.OrderHeader.UpdateStatus(id, SD.StatusApproved,SD.PaymentStatusApproved);
                 //  _unitOfWork.Save();
                 //  }
-
-                HttpContext.Session.Clear();
             }
+            
+            // Clear the shopping cart for the user regardless of payment type
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
+
+            var shoppingCartsToRemove = _unitOfWork.ShoppingCart
+                .GetAll(u => u.ApplicationUserId == userId).ToList();
+
+            _unitOfWork.ShoppingCart.RemoveRange(shoppingCartsToRemove);
+            _unitOfWork.Save();
+
+            HttpContext.Session.Clear();
 
             return View(id);
         }

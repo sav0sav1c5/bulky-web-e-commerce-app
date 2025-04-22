@@ -28,12 +28,13 @@ namespace Bulky.Models
 
         public DateTime PaymentDate { get; set; }
         // Due date will be type of DateOnly - in EF Core special feature 'DateOnly'
-        public DateOnly PaymentDuoDate { get; set; }
+        public DateOnly PaymentDueDate { get; set; }
 
         // Stripe payments or credit card payments require from as to also add needed information
         // For Stripe - we are getting unique ID from Stripe which will be PaymentIntentId
         // It will uniquely identify each payment that's done for order and save that in db
         public string? PaymentIntentId { get; set; }
+        public string? SessionId { get; set; }
 
         [Required]
         public string Name { get; set; }
