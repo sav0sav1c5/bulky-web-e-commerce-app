@@ -258,10 +258,6 @@ namespace Bulky.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ImageURL")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<double>("ListPrice")
                         .HasColumnType("float");
 
@@ -292,7 +288,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 1,
                             Description = "A counterintuitive approach to living a good life. This book challenges the conventional wisdom about positivity and happiness, arguing that accepting our limitations and embracing our fears leads to more meaningful lives.",
                             ISBN = "978-0062457714",
-                            ImageURL = "",
                             ListPrice = 26.989999999999998,
                             Price = 24.989999999999998,
                             Price100 = 19.989999999999998,
@@ -306,7 +301,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 3,
                             Description = "This timeless bestseller has helped countless people climb the ladder of success in their business and personal lives. Learn the six ways to make people like you, the twelve ways to win people to your way of thinking, and the nine ways to change people without arousing resentment.",
                             ISBN = "978-0671027032",
-                            ImageURL = "",
                             ListPrice = 19.989999999999998,
                             Price = 17.989999999999998,
                             Price100 = 13.99,
@@ -320,7 +314,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 2,
                             Description = "A sweeping fantasy about a kingdom divided by magic, where a girl with forbidden magic must unite with a disgraced royal in order to save their world from destruction.",
                             ISBN = "978-0062652668",
-                            ImageURL = "",
                             ListPrice = 18.989999999999998,
                             Price = 16.989999999999998,
                             Price100 = 14.5,
@@ -334,7 +327,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 3,
                             Description = "How to analyze, understand, and predict people's emotions, thoughts, intentions, and behaviors. This practical guide provides insights into human psychology and teaches techniques for better understanding others.",
                             ISBN = "978-1647433727",
-                            ImageURL = "/images/products/read-people-like-a-book.jpg",
                             ListPrice = 16.989999999999998,
                             Price = 15.99,
                             Price100 = 12.99,
@@ -348,7 +340,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 2,
                             Description = "What the rich teach their kids about money that the poor and middle class do not. This personal finance classic challenges conventional views on work, saving, investing and building wealth.",
                             ISBN = "978-1612680194",
-                            ImageURL = "",
                             ListPrice = 17.949999999999999,
                             Price = 15.949999999999999,
                             Price100 = 12.99,
@@ -362,7 +353,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 2,
                             Description = "The first book in Robert Jordan's epic fantasy series. When their village is attacked by terrifying creatures, three young men begin a perilous journey that will change their lives forever.",
                             ISBN = "978-1250251466",
-                            ImageURL = "",
                             ListPrice = 22.989999999999998,
                             Price = 19.989999999999998,
                             Price100 = 16.989999999999998,
@@ -376,7 +366,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 4,
                             Description = "Timeless lessons on wealth, greed, and happiness. This book explores how your personal experiences with money shape your behavior more than logic or facts, and how to make better financial decisions.",
                             ISBN = "978-0857197689",
-                            ImageURL = "",
                             ListPrice = 19.989999999999998,
                             Price = 17.989999999999998,
                             Price100 = 14.99,
@@ -390,7 +379,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 2,
                             Description = "A delightful collection showcasing the whimsical and distinctive art of Yoshitomo Nara, featuring his iconic wide-eyed children and animals that blend innocence with defiance.",
                             ISBN = "978-0714857466",
-                            ImageURL = "",
                             ListPrice = 45.0,
                             Price = 42.990000000000002,
                             Price100 = 38.990000000000002,
@@ -404,7 +392,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 1,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "SWD9999001",
-                            ImageURL = "",
                             ListPrice = 99.0,
                             Price = 90.0,
                             Price100 = 80.0,
@@ -418,7 +405,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 2,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "CAW777777701",
-                            ImageURL = "",
                             ListPrice = 40.0,
                             Price = 30.0,
                             Price100 = 20.0,
@@ -432,7 +418,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 2,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "RITO5555501",
-                            ImageURL = "",
                             ListPrice = 55.0,
                             Price = 50.0,
                             Price100 = 35.0,
@@ -446,7 +431,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 3,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "WS3333333301",
-                            ImageURL = "",
                             ListPrice = 70.0,
                             Price = 65.0,
                             Price100 = 55.0,
@@ -460,7 +444,6 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 4,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "SOTJ1111111101",
-                            ImageURL = "",
                             ListPrice = 30.0,
                             Price = 27.0,
                             Price100 = 20.0,
@@ -474,13 +457,34 @@ namespace Bulky.DataAccess.Migrations
                             CategoryId = 4,
                             Description = "Praesent vitae sodales libero. Praesent molestie orci augue, vitae euismod velit sollicitudin ac. Praesent vestibulum facilisis nibh ut ultricies.\r\n\r\nNunc malesuada viverra ipsum sit amet tincidunt. ",
                             ISBN = "FOT000000001",
-                            ImageURL = "",
                             ListPrice = 25.0,
                             Price = 23.0,
                             Price100 = 20.0,
                             Price50 = 22.0,
                             Title = "Leaves and Wonders"
                         });
+                });
+
+            modelBuilder.Entity("Bulky.Models.ProductImage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ProductImages");
                 });
 
             modelBuilder.Entity("Bulky.Models.ShoppingCart", b =>
@@ -786,6 +790,17 @@ namespace Bulky.DataAccess.Migrations
                     b.Navigation("Category");
                 });
 
+            modelBuilder.Entity("Bulky.Models.ProductImage", b =>
+                {
+                    b.HasOne("Bulky.Models.Product", "Product")
+                        .WithMany("ProductImages")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+                });
+
             modelBuilder.Entity("Bulky.Models.ShoppingCart", b =>
                 {
                     b.HasOne("Bulky.Models.ApplicationUser", "ApplicationUser")
@@ -863,6 +878,11 @@ namespace Bulky.DataAccess.Migrations
                         .HasForeignKey("CompanyId");
 
                     b.Navigation("Company");
+                });
+
+            modelBuilder.Entity("Bulky.Models.Product", b =>
+                {
+                    b.Navigation("ProductImages");
                 });
 #pragma warning restore 612, 618
         }

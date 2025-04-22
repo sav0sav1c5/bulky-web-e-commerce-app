@@ -7,7 +7,15 @@
             <div class="col-lg-3 col-md-6 col-sm-12 pb-4">
                 <div class="product-card border-2">
                     <div class="product-card-img-container">
-                        <img src="@product.ImageURL" class="product-card-img-top rounded-top" alt="@product.Title" />
+                        @if (product.ProductImages != null && product.ProductImages.Count() > 0)
+                        {
+                            <img src="@product.ProductImages.FirstOrDefault().ImageUrl" class="product-card-img-top rounded-top" alt="@product.Title" />
+                        }
+                        else
+                        {
+                            <img src="https://placeholder.co/500x600/png" class="product-card-img-top rounded-top" alt="@product.Title" />
+                        }
+                        @*<img src="@product.ImageURL" class="product-card-img-top rounded-top" alt="@product.Title" />*@
                     </div>
                     <div class="product-card-body text-center">
                         <p class="card-title text-uppercase fw-bold mb-1">@product.Title</p>

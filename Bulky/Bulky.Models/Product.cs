@@ -51,7 +51,11 @@ namespace Bulky.Models
         public Category Category { get; set; }
 
         // Image URL for Product image
+        // [ValidateNever]
+        // public string ImageURL { get; set; }
+
+        // One-To-Many relation - cuz one product can have multiple product images
         [ValidateNever]
-        public string ImageURL { get; set; }
+        public List<ProductImage> ProductImages { get; set; }
     }
 }

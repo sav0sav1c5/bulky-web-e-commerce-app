@@ -49,52 +49,20 @@ namespace BulkyWeb.Areas.Admin.Controllers
             // Id is present - Update
             else
             {
-                productViewModel.Product = _unitOfWork.Product.Get(u => u.Id == id);
+                productViewModel.Product = _unitOfWork.Product.Get(u => u.Id == id, includeProperties: "ProductImages");
                 return View(productViewModel);
             }
         }
 
         [HttpPost]
-        public IActionResult Upsert(ProductViewModel productViewModel, IFormFile? file)
+        public IActionResult Upsert(ProductViewModel productViewModel, List<IFormFile>? files)
         {
             // ModelState.IsValid - Check if model state (in this case 'Product') is valid
             // It goes in model of entity and checks all validations
             if (ModelState.IsValid)
             {
-                string wwwRootPath = _webHostEnvironment.WebRootPath;
 
-                if (file != null)
-                {
-                    string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
-                    string productPath = Path.Combine(wwwRootPath, @"images\product");
-
-                    // Update method addition - Checking if file (imageURL is present)
-                    //if (productViewModel.Product.ImageURL != null)
-                    if (!string.IsNullOrEmpty(productViewModel.Product.ImageURL))
-                    {
-                        // If it's not NULL or Empty that imageURL exists
-                        // So we need to delete the old image and upload new
-                        // In imageURL we have \images\product\fileName and because we
-                        // use Path.Combine, we need to remove that part
-                        var oldImagePath = Path.Combine(wwwRootPath, productViewModel.Product.ImageURL.TrimStart('\\'));
-
-                        // Deleting old image
-                        if (System.IO.File.Exists(oldImagePath))
-                        {
-                            System.IO.File.Delete(oldImagePath);
-                        }
-
-                    }
-
-                    using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create))
-                    {
-                        file.CopyTo(fileStream);
-                    }
-
-                    productViewModel.Product.ImageURL = @"\images\product\" + fileName;
-                }
-
-                // If Id is present, we are updating Product
+                // Moved here so when we can first get product id and use it for folder for uploaded images
                 if (productViewModel.Product.Id != 0)
                 {
                     _unitOfWork.Product.Update(productViewModel.Product);
@@ -103,9 +71,90 @@ namespace BulkyWeb.Areas.Admin.Controllers
                 {
                     _unitOfWork.Product.Add(productViewModel.Product);
                 }
-                
+
                 _unitOfWork.Save();
-                TempData["success"] = "Product created successfully!";
+
+                string wwwRootPath = _webHostEnvironment.WebRootPath;
+
+                if (files != null)
+                {
+
+                    foreach (IFormFile file in files)
+                    {
+                        string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
+                        string productPath = @"images\products\product-" + productViewModel.Product.Id;
+                        string finalProductPath = Path.Combine(wwwRootPath, productPath);
+
+                        // If already don't exist we are creating directory
+                        if (!Directory.Exists(finalProductPath))
+                        {
+                            Directory.CreateDirectory(finalProductPath);
+                        }
+
+                        // Uploading files
+                        using (var fileStream = new FileStream(Path.Combine(finalProductPath, fileName), FileMode.Create))
+                        {
+                            file.CopyTo(fileStream);
+                        }
+
+                        // After uploading need to save obj to ProductImage table
+                        ProductImage productImage = new()
+                        {
+                            ImageUrl = @"\" + productPath + @"\" + fileName,
+                            ProductId = productViewModel.Product.Id,
+                        };
+
+                        if (productViewModel.Product.ProductImages == null)
+                        {
+                            productViewModel.Product.ProductImages = new List<ProductImage>();
+                        }
+
+                        productViewModel.Product.ProductImages.Add(productImage);
+                        // _unitOfWork.ProductImage.Add(productImage);
+                    }
+
+                    _unitOfWork.Product.Update(productViewModel.Product);
+                    _unitOfWork.Save();
+
+                    // Update method addition - Checking if file (imageURL is present)
+                    // if (productViewModel.Product.ImageURL != null)
+
+                    //    if (!string.IsNullOrEmpty(productViewModel.Product.ImageURL))
+                    //    {
+                    //        // If it's not NULL or Empty that imageURL exists
+                    //        // So we need to delete the old image and upload new
+                    //        // In imageURL we have \images\product\fileName and because we
+                    //        // use Path.Combine, we need to remove that part
+                    //        var oldImagePath = Path.Combine(wwwRootPath, productViewModel.Product.ImageURL.TrimStart('\\'));
+
+                    //        // Deleting old image
+                    //        if (System.IO.File.Exists(oldImagePath))
+                    //        {
+                    //            System.IO.File.Delete(oldImagePath);
+                    //        }
+
+                    //    }
+
+                    //    using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create))
+                    //    {
+                    //        file.CopyTo(fileStream);
+                    //    }
+
+                    //    productViewModel.Product.ImageURL = @"\images\product\" + fileName;
+                }
+
+                //// If Id is present, we are updating Product
+                //if (productViewModel.Product.Id != 0)
+                //{
+                //    _unitOfWork.Product.Update(productViewModel.Product);
+                //}
+                //else
+                //{
+                //    _unitOfWork.Product.Add(productViewModel.Product);
+                //}
+                
+                //_unitOfWork.Save();
+                TempData["success"] = "Product created/updated successfully!";
                 return RedirectToAction("Index");
             }
             else
@@ -120,6 +169,35 @@ namespace BulkyWeb.Areas.Admin.Controllers
                 });
                 return View(productViewModel);
             }
+        }
+
+        public IActionResult DeleteImage(int? imageId)
+        {
+            // We will get image that needs to be deleted
+            var imageToBeDeleted = _unitOfWork.ProductImage.Get(u => u.Id == imageId);
+            int productId = imageToBeDeleted.ProductId;
+
+            // If it's not null, we also need to check URL
+            if (imageToBeDeleted !=  null)
+            {
+                if (!string.IsNullOrEmpty(imageToBeDeleted.ImageUrl))
+                {
+                    var imageToBeDeletedPath = Path.Combine(_webHostEnvironment.WebRootPath, imageToBeDeleted.ImageUrl.Trim('\\'));
+
+                    if (System.IO.File.Exists(imageToBeDeletedPath))
+                    {
+                        System.IO.File.Delete(imageToBeDeletedPath);
+                    }
+                }
+
+                // Also we need to remove that image from database
+                _unitOfWork.ProductImage.Remove(imageToBeDeleted);
+                _unitOfWork.Save();
+
+                TempData["success"] = "Product image deleted successfully!";
+            }
+
+            return RedirectToAction(nameof(Upsert), new {id = productId});
         }
 
         // Region for API calls
@@ -145,12 +223,29 @@ namespace BulkyWeb.Areas.Admin.Controllers
 
             // If product is found we remove it
             // But prior to that we need to check if product has imageURL -> image in wwwroot/images/product
-            var oldImagePath = Path.Combine(_webHostEnvironment.WebRootPath, productToDelete.
-                ImageURL.TrimStart('\\'));
+            //var oldImagePath = Path.Combine(_webHostEnvironment.WebRootPath, productToDelete.
+            //    ImageURL.TrimStart('\\'));
 
-            if (System.IO.File.Exists(oldImagePath))
+            //if (System.IO.File.Exists(oldImagePath))
+            //{
+            //    System.IO.File.Delete(oldImagePath);
+            //}
+
+            string productPath = @"images\products\product-" + id;
+            string finalProductPath = Path.Combine(_webHostEnvironment.WebRootPath, productPath);
+
+            // Deleting directory with images of product that is going to be deleted
+            if (!Directory.Exists(finalProductPath))
             {
-                System.IO.File.Delete(oldImagePath);
+                // First we need to get all files and remove each of them
+                string[] filePaths = Directory.GetFiles(finalProductPath);
+                
+                foreach (string filePath in filePaths)
+                {
+                    System.IO.File.Delete(filePath);
+                }
+
+                Directory.Delete(finalProductPath);
             }
 
             _unitOfWork.Product.Remove(productToDelete);

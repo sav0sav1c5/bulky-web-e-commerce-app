@@ -1,0 +1,5 @@
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\wwwroot\images\products\product-10\ec622b1d-69f9-4cae-b9fa-e858ce68a392.jpg
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\wwwroot\images\products\product-12\514a9add-9f22-4d17-b602-bfb7579b9a92.jpg
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\wwwroot\images\products\product-13\3f2962bc-03de-4807-9d89-605359e7f4a2.jpg
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\wwwroot\images\products\product-14\b1463945-9b6b-454f-a3fd-07af2f1c4f74.jpg
+C:\Users\ws232\OneDrive\Desktop\bulky-web-e-commerce-app\Bulky\BulkyWeb\wwwroot\images\products\product-9\2cdd96cc-ae3e-4a8d-87a5-0f494e116204.jpg
