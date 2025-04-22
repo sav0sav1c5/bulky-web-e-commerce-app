@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rQmNRs8jlxTJwRkkpzKLIj664BWKkrFiGndBPoS5E6k=",
+  "Hash": "iGVu93soUkYhfaglgxzigdq88E5slGbEWSqWzfYaMOA=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1802,6 +1802,27 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+      "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "js/user#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nefqbs4n1z",
+      "Integrity": "f6t3+wJppq4z5Glvm/B4mlbIHXga1Jf0pymDN5Sv/kk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\user.js"
+    },
+    {
       "Identity": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
@@ -3023,7 +3044,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 12:21:54 GMT"
+          "Value": "Mon, 21 Apr 2025 23:47:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3060,7 +3081,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 12:21:54 GMT"
+          "Value": "Mon, 21 Apr 2025 23:47:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3105,7 +3126,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 12:21:54 GMT"
+          "Value": "Mon, 21 Apr 2025 23:47:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3150,7 +3171,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 12:21:54 GMT"
+          "Value": "Mon, 21 Apr 2025 23:47:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3187,7 +3208,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 22:12:44 GMT"
+          "Value": "Mon, 21 Apr 2025 12:30:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3224,7 +3245,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 22:12:44 GMT"
+          "Value": "Mon, 21 Apr 2025 12:30:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7271,6 +7292,88 @@
       ]
     },
     {
+      "Route": "js/user.js",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f6t3+wJppq4z5Glvm/B4mlbIHXga1Jf0pymDN5Sv/kk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 23:11:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f6t3+wJppq4z5Glvm/B4mlbIHXga1Jf0pymDN5Sv/kk="
+        }
+      ]
+    },
+    {
+      "Route": "js/user.nefqbs4n1z.js",
+      "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\js\\user.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f6t3+wJppq4z5Glvm/B4mlbIHXga1Jf0pymDN5Sv/kk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 23:11:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nefqbs4n1z"
+        },
+        {
+          "Name": "label",
+          "Value": "js/user.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f6t3+wJppq4z5Glvm/B4mlbIHXga1Jf0pymDN5Sv/kk="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.9y9di0lrqz.css",
       "AssetFile": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
@@ -7293,7 +7396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 22:10:35 GMT"
+          "Value": "Mon, 21 Apr 2025 12:30:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7338,7 +7441,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 18 Apr 2025 22:10:35 GMT"
+          "Value": "Mon, 21 Apr 2025 12:30:42 GMT"
         },
         {
           "Name": "Cache-Control",
