@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {}
+    "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+    "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
         "projectName": "Bulky.DataAccess",
-        "projectPath": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\ws232\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\iam0v\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ws232\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\iam0v\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,19 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/azure-public/vside/_packaging/vssdk/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-                "projectPath": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+              "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+                "projectPath": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
               },
-              "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
-                "projectPath": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
+              "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+                "projectPath": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
               }
             }
           }
@@ -108,20 +106,20 @@
         }
       }
     },
-    "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+    "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectUniqueName": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
         "projectName": "Bulky.Models",
-        "projectPath": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
-        "packagesPath": "C:\\Users\\ws232\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\obj\\",
+        "projectPath": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "packagesPath": "C:\\Users\\iam0v\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ws232\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\iam0v\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -130,9 +128,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/azure-public/vside/_packaging/vssdk/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -188,20 +184,20 @@
         }
       }
     },
-    "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+    "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
         "projectName": "Bulky.Utility",
-        "projectPath": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
-        "packagesPath": "C:\\Users\\ws232\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ws232\\OneDrive\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\obj\\",
+        "projectPath": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+        "packagesPath": "C:\\Users\\iam0v\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iam0v\\Desktop\\bulky-web-e-commerce-app\\Bulky\\Bulky.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ws232\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\iam0v\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -210,9 +206,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/azure-public/vside/_packaging/vssdk/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {

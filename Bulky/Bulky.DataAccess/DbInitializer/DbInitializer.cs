@@ -59,7 +59,8 @@ namespace Bulky.DataAccess.DbInitializer
                     StreetAddress = "Bul. Oslobodjenja 66",
                     State = "Serbia",
                     PostalCode = "21000",
-                    City = "Novi Sad"
+                    City = "Novi Sad",
+                    EmailConfirmed = true
                 }, "Admin123*").GetAwaiter().GetResult();
 
                 ApplicationUser adminUser = _db.ApplicationUsers.FirstOrDefault(u => u.Email == "savo.savic.in@gmail.com");
